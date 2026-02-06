@@ -7,7 +7,7 @@
 
 ## Overview
 
-Mounting bromeliads to trees creates a stunning tropical accent feature -- columns of color climbing trunks, turning ordinary trees (even dead ones) into living sculptures in the garden. The designer references McKee Botanical Gardens in Vero Beach as inspiration, where bromeliads climb all the way up trees with variation of color, looking like "column after column of beautiful plants."
+Mounting bromeliads to trees creates a stunning tropical accent feature - columns of color climbing trunks, turning ordinary trees (even dead ones) into living sculptures in the garden. The designer references McKee Botanical Gardens in Vero Beach as inspiration, where bromeliads climb all the way up trees with variation of color, looking like "column after column of beautiful plants."
 
 Bromeliads are **epiphytes** (transcribed as "epipites" / "epoites"). They do not take nutrients from the host tree. Their roots serve only as an attachment/support mechanism. The plants get their nutrients and water from their central cups/cones.
 
