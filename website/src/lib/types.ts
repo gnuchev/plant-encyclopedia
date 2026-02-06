@@ -5,6 +5,7 @@ export interface Plant {
   botanical_name: string;
   transcript_spelling: string;
   description: string;
+  images?: string[];
 }
 
 export interface PlantsData {
