@@ -1,0 +1,2253 @@
+{
+  "metadata": {
+    "title": "California Landscape Plants Encyclopedia",
+    "source": "YouTube transcripts from John Valentino / John and Bob's Corporation",
+    "location": "Fresno, California",
+    "climate_zone": "USDA Zone 9, Mediterranean climate",
+    "date_compiled": "2026-02-06",
+    "total_plants": 280,
+    "description": "Comprehensive plant encyclopedia extracted from landscape design YouTube channel transcripts. All plant names have been decoded from speech-to-text transcription artifacts and verified with correct botanical nomenclature."
+  },
+  "plants": [
+    {
+      "id": 1,
+      "category": "Trees - Deciduous",
+      "common_name": "Japanese Maple",
+      "botanical_name": "Acer palmatum",
+      "transcript_spelling": "Japanese maple",
+      "description": "Featured extensively as a signature ornamental tree for California gardens. Multiple varieties discussed including upright and weeping forms. Used in shade gardens, courtyards, and as focal points. Requires regular pruning every 6 months to maintain shape. Prefers afternoon shade in hot Central Valley climates."
+    },
+    {
+      "id": 2,
+      "category": "Trees - Deciduous",
+      "common_name": "Laceleaf Japanese Maple (Dissectum)",
+      "botanical_name": "Acer palmatum var. dissectum",
+      "transcript_spelling": "dissect maple, dissectum",
+      "description": "Weeping, lacy-leafed form of Japanese maple. Used as specimen tree in shade gardens and courtyards. Signature plant in the designer's own garden. Requires careful pruning to maintain cascading form."
+    },
+    {
+      "id": 3,
+      "category": "Trees - Deciduous",
+      "common_name": "Japanese Maple 'Tamukeyama'",
+      "botanical_name": "Acer palmatum 'Tamukeyama'",
+      "transcript_spelling": "tomokyama, Tamukeyama",
+      "description": "Red weeping laceleaf Japanese maple variety. Deep burgundy-red foliage. Popular cultivar for small gardens and containers."
+    },
+    {
+      "id": 4,
+      "category": "Trees - Deciduous",
+      "common_name": "Japanese Maple 'Viridis'",
+      "botanical_name": "Acer palmatum 'Viridis'",
+      "transcript_spelling": "Viridis",
+      "description": "Green laceleaf weeping Japanese maple. Provides contrasting green laceleaf form when paired with red varieties."
+    },
+    {
+      "id": 5,
+      "category": "Trees - Deciduous",
+      "common_name": "Japanese Maple 'Shaina'",
+      "botanical_name": "Acer palmatum 'Shaina'",
+      "transcript_spelling": "shana, Shaina",
+      "description": "Compact dwarf Japanese maple with deep red foliage. Grows very slowly, suitable for small spaces and containers."
+    },
+    {
+      "id": 6,
+      "category": "Trees - Deciduous",
+      "common_name": "Japanese Maple 'Fireglow'",
+      "botanical_name": "Acer palmatum 'Fireglow'",
+      "transcript_spelling": "Fireglow",
+      "description": "Upright Japanese maple with brilliant red foliage. Better heat tolerance than many Japanese maple varieties."
+    },
+    {
+      "id": 7,
+      "category": "Trees - Deciduous",
+      "common_name": "Japanese Maple 'Johin'",
+      "botanical_name": "Acer palmatum 'Johin'",
+      "transcript_spelling": "Johin",
+      "description": "Upright Japanese maple variety discussed for garden use in Central Valley landscapes."
+    },
+    {
+      "id": 8,
+      "category": "Trees - Deciduous",
+      "common_name": "Japanese Maple 'Peve Starfish'",
+      "botanical_name": "Acer palmatum 'Peve Starfish'",
+      "transcript_spelling": "Peve Starfish",
+      "description": "Unique Japanese maple cultivar with distinctive star-shaped leaves. Collector variety."
+    },
+    {
+      "id": 9,
+      "category": "Trees - Deciduous",
+      "common_name": "Japanese Maple 'Ryusei'",
+      "botanical_name": "Acer palmatum 'Ryusei'",
+      "transcript_spelling": "Ryusei",
+      "description": "Japanese maple cultivar discussed in the maple garden tour. Known for interesting leaf form and fall color."
+    },
+    {
+      "id": 10,
+      "category": "Trees - Deciduous",
+      "common_name": "Coral Bark Maple 'Sango Kaku'",
+      "botanical_name": "Acer palmatum 'Sango Kaku'",
+      "transcript_spelling": "Sango Kaku",
+      "description": "Japanese maple variety with striking coral-red bark in winter. Provides year-round interest. Green leaves turn golden yellow in fall."
+    },
+    {
+      "id": 11,
+      "category": "Trees - Deciduous",
+      "common_name": "Dwarf Ginkgo 'Jade Butterfly'",
+      "botanical_name": "Ginkgo biloba 'Jade Butterfly'",
+      "transcript_spelling": "jade Butterfly, dwarf ginkgo",
+      "description": "Dwarf form of ginkgo tree suitable for small gardens. Unique butterfly-shaped leaves. Slow-growing, low-maintenance ornamental tree."
+    },
+    {
+      "id": 12,
+      "category": "Trees - Deciduous",
+      "common_name": "Chinese Pistache",
+      "botanical_name": "Pistacia chinensis",
+      "transcript_spelling": "Chinese pistach, Chinese stash",
+      "description": "One of the best fall color trees for the Central Valley. Keith Davey is the grafted variety that guarantees spectacular fall color. Well-behaved roots. Used extensively in California landscapes. Large tree, potentially too big for small sites."
+    },
+    {
+      "id": 13,
+      "category": "Trees - Deciduous",
+      "common_name": "Chinese Elm",
+      "botanical_name": "Ulmus parvifolia",
+      "transcript_spelling": "Chinese Elm",
+      "description": "Common shade tree in California. Mentioned as a park-scale tree that can be too large for small residential sites. Fast growing and generally low maintenance."
+    },
+    {
+      "id": 14,
+      "category": "Trees - Deciduous",
+      "common_name": "Eastern Redbud",
+      "botanical_name": "Cercis canadensis",
+      "transcript_spelling": "eastern redbud, Eastern Redbud",
+      "description": "Small patio-scale tree with spring flowers. Multiple varieties available. Appropriate for small gardens where large trees would be too big. Used in courtyard plantings and no-lawn front yard designs."
+    },
+    {
+      "id": 15,
+      "category": "Trees - Deciduous",
+      "common_name": "Western Redbud",
+      "botanical_name": "Cercis occidentalis",
+      "transcript_spelling": "Western Red Bud",
+      "description": "California native small tree with magenta spring flowers. Drought tolerant once established. Appropriate for small garden spaces."
+    },
+    {
+      "id": 16,
+      "category": "Trees - Deciduous",
+      "common_name": "Redbud 'Flamethrower'",
+      "botanical_name": "Cercis canadensis 'Flamethrower'",
+      "transcript_spelling": "Flamethrower",
+      "description": "Ornamental redbud cultivar with colorful multi-hued foliage emerging in shades of red, orange, and gold."
+    },
+    {
+      "id": 17,
+      "category": "Trees - Deciduous",
+      "common_name": "Rising Sun Redbud",
+      "botanical_name": "Cercis canadensis 'Rising Sun'",
+      "transcript_spelling": "Rising Sun Redbud",
+      "description": "Redbud variety with spectacular orange to gold emerging foliage. Small ornamental tree for focal points."
+    },
+    {
+      "id": 18,
+      "category": "Trees - Deciduous",
+      "common_name": "Oklahoma Redbud",
+      "botanical_name": "Cercis reniformis 'Oklahoma'",
+      "transcript_spelling": "Oklahoma Redbud",
+      "description": "Redbud variety seen at nursery tour. Noted for thick, glossy, leathery leaves and deep magenta flowers. More heat-tolerant than Eastern Redbud."
+    },
+    {
+      "id": 19,
+      "category": "Trees - Deciduous",
+      "common_name": "Crape Myrtle",
+      "botanical_name": "Lagerstroemia indica",
+      "transcript_spelling": "lagrass draia, crape myrtle",
+      "description": "Major flowering tree for California summer landscapes. Multiple varieties discussed including Tuscarora (coral-pink), Muskogee (lavender), Black Diamond (dark foliage), and Natchez (white, multi-trunk). Used lining walkways and as specimen trees."
+    },
+    {
+      "id": 20,
+      "category": "Trees - Deciduous",
+      "common_name": "Crape Myrtle 'Natchez'",
+      "botanical_name": "Lagerstroemia indica 'Natchez'",
+      "transcript_spelling": "Natchez crape myrtle",
+      "description": "White-flowering crape myrtle variety. Used as multi-trunk specimens in the front garden remodel. Beautiful cinnamon-brown exfoliating bark."
+    },
+    {
+      "id": 21,
+      "category": "Trees - Deciduous",
+      "common_name": "Camphor Tree",
+      "botanical_name": "Cinnamomum camphora",
+      "transcript_spelling": "camper, camphor",
+      "description": "Large evergreen shade tree. Described as a park tree that is too big for small residential sites. Common in older California neighborhoods."
+    },
+    {
+      "id": 22,
+      "category": "Trees - Deciduous",
+      "common_name": "Modesto Ash",
+      "botanical_name": "Fraxinus velutina 'Modesto'",
+      "transcript_spelling": "Modesto Ash",
+      "description": "Mentioned as a common California street/shade tree. Can develop problems in landscapes."
+    },
+    {
+      "id": 23,
+      "category": "Trees - Deciduous",
+      "common_name": "Smoke Tree",
+      "botanical_name": "Cotinus coggygria",
+      "transcript_spelling": "smoked Bush, smoke bush, Smoke Tree",
+      "description": "Ornamental small tree/large shrub with fluffy smoke-like flower clusters. Dwarf form used in courtyard plantings. Provides purple or green foliage interest."
+    },
+    {
+      "id": 24,
+      "category": "Trees - Deciduous",
+      "common_name": "Weeping Willow",
+      "botanical_name": "Salix babylonica",
+      "transcript_spelling": "Weeping Willow",
+      "description": "Large deciduous tree with graceful weeping habit. Requires significant water and space."
+    },
+    {
+      "id": 25,
+      "category": "Trees - Deciduous",
+      "common_name": "California Sycamore",
+      "botanical_name": "Platanus racemosa",
+      "transcript_spelling": "sycamore",
+      "description": "Large native California shade tree with distinctive mottled bark. Commonly used in parks and large landscapes."
+    },
+    {
+      "id": 26,
+      "category": "Trees - Deciduous",
+      "common_name": "European White Birch",
+      "botanical_name": "Betula pendula",
+      "transcript_spelling": "European White Birch",
+      "description": "Ornamental tree with white bark. Can struggle in Central Valley heat."
+    },
+    {
+      "id": 27,
+      "category": "Trees - Deciduous",
+      "common_name": "River Birch 'Dura Heat'",
+      "botanical_name": "Betula nigra 'Dura Heat'",
+      "transcript_spelling": "Dura Heat, River Birch",
+      "description": "Heat-tolerant birch variety. Better suited to hot Central Valley conditions than European White Birch. Exfoliating salmon-colored bark."
+    },
+    {
+      "id": 28,
+      "category": "Trees - Deciduous",
+      "common_name": "Red Horse Chestnut",
+      "botanical_name": "Aesculus x carnea",
+      "transcript_spelling": "escalus Cara, Aesculus carnea",
+      "description": "Ornamental tree with showy red flower candles in spring. Seen on spring garden tour. Hybrid of horse chestnut and red buckeye."
+    },
+    {
+      "id": 29,
+      "category": "Trees - Deciduous",
+      "common_name": "Purple Leaf Plum",
+      "botanical_name": "Prunus cerasifera",
+      "transcript_spelling": "purple leaf Plum",
+      "description": "Common ornamental tree in California landscapes. Purple foliage with pink spring flowers. Seen in spring garden tour."
+    },
+    {
+      "id": 30,
+      "category": "Trees - Deciduous",
+      "common_name": "Flowering Cherry",
+      "botanical_name": "Prunus serrulata",
+      "transcript_spelling": "flowering cherry",
+      "description": "Ornamental spring-flowering tree. Noted in spring garden tour. Pink or white blossoms."
+    },
+    {
+      "id": 31,
+      "category": "Trees - Deciduous",
+      "common_name": "Tulip Tree",
+      "botanical_name": "Liriodendron tulipifera",
+      "transcript_spelling": "LOD dendrin tulipifera",
+      "description": "Large deciduous shade tree with distinctive tulip-shaped leaves and flowers. One of the tallest eastern North American hardwoods. Can be very large for residential sites."
+    },
+    {
+      "id": 32,
+      "category": "Trees - Deciduous",
+      "common_name": "American Sweet Gum",
+      "botanical_name": "Liquidambar styraciflua",
+      "transcript_spelling": "liquid Amber, Liquidambar",
+      "description": "Large deciduous shade tree known for star-shaped leaves and excellent fall color. Produces spiny seed balls. Common in California landscapes."
+    },
+    {
+      "id": 33,
+      "category": "Trees - Deciduous",
+      "common_name": "Autumn Fantasy Maple",
+      "botanical_name": "Acer x freemanii 'Autumn Fantasy'",
+      "transcript_spelling": "Autumn Fantasy Maple",
+      "description": "Hybrid maple seen at nursery tour. Cross between red maple and silver maple. Selected for reliable fall color in warmer climates."
+    },
+    {
+      "id": 34,
+      "category": "Trees - Deciduous",
+      "common_name": "Bradford Pear",
+      "botanical_name": "Pyrus calleryana 'Bradford'",
+      "transcript_spelling": "Bradford Pear",
+      "description": "Ornamental pear tree mentioned in context of lawn problems. Known to be short-lived and prone to splitting. Increasingly avoided in modern landscapes."
+    },
+    {
+      "id": 35,
+      "category": "Trees - Deciduous",
+      "common_name": "Pink Dogwood",
+      "botanical_name": "Cornus florida",
+      "transcript_spelling": "pink Dogwood, Cornus florida",
+      "description": "Eastern North American native flowering tree. Spring-blooming with pink bracts. Seen in spring garden tour."
+    },
+    {
+      "id": 36,
+      "category": "Trees - Deciduous",
+      "common_name": "Korean Dogwood",
+      "botanical_name": "Cornus kousa",
+      "transcript_spelling": "cornis cusa, Cornus kousa",
+      "description": "Asian dogwood species used in zoo Asian exhibit landscaping. Later-blooming than Cornus florida. More disease-resistant. Distinctive pointed bracts."
+    },
+    {
+      "id": 37,
+      "category": "Trees - Deciduous",
+      "common_name": "Mountain Moon Dogwood",
+      "botanical_name": "Cornus kousa 'Mountain Moon'",
+      "transcript_spelling": "Mountain Moon Dogwood",
+      "description": "Cornus kousa cultivar seen at nursery tour. Large white bracts. Good disease resistance."
+    },
+    {
+      "id": 38,
+      "category": "Trees - Deciduous",
+      "common_name": "Chinese Tallow",
+      "botanical_name": "Triadica sebifera",
+      "transcript_spelling": "Chinese Tallow",
+      "description": "Deciduous tree mentioned in landscaping context. Can be invasive in some regions. Provides fall color."
+    },
+    {
+      "id": 39,
+      "category": "Trees - Deciduous",
+      "common_name": "Poplar",
+      "botanical_name": "Populus spp.",
+      "transcript_spelling": "Poplar",
+      "description": "Fast-growing deciduous tree. Mentioned in general landscape discussions."
+    },
+    {
+      "id": 40,
+      "category": "Trees - Deciduous",
+      "common_name": "Hibiscus Tree / Rose of Sharon",
+      "botanical_name": "Hibiscus syriacus",
+      "transcript_spelling": "Hibiscus Tree, Rose of Sharon",
+      "description": "Deciduous flowering shrub/small tree. Summer-blooming with large tropical-looking flowers."
+    },
+    {
+      "id": 41,
+      "category": "Trees - Evergreen",
+      "common_name": "Fruitless Olive",
+      "botanical_name": "Olea europaea 'Swan Hill' or 'Wilsonii'",
+      "transcript_spelling": "fruitless olives, fruitless olive",
+      "description": "Signature Mediterranean tree for California landscapes. Multi-trunk form used extensively. Low water, low maintenance. Used as small patio trees in front gardens. Four used in the designer's own low-maintenance garden."
+    },
+    {
+      "id": 42,
+      "category": "Trees - Evergreen",
+      "common_name": "Southern Magnolia",
+      "botanical_name": "Magnolia grandiflora",
+      "transcript_spelling": "Southern Magnolia",
+      "description": "Large evergreen tree with glossy leaves and fragrant white flowers. A classic Southern tree also used in California."
+    },
+    {
+      "id": 43,
+      "category": "Trees - Evergreen",
+      "common_name": "Magnolia 'Black Tulip'",
+      "botanical_name": "Magnolia x 'Black Tulip'",
+      "transcript_spelling": "Magnolia Black Tulip",
+      "description": "Deciduous magnolia hybrid with deep burgundy-purple tulip-shaped flowers. Seen on spring garden tour. Striking specimen tree."
+    },
+    {
+      "id": 44,
+      "category": "Trees - Evergreen",
+      "common_name": "Southern Live Oak",
+      "botanical_name": "Quercus virginiana",
+      "transcript_spelling": "Southern Live Oak",
+      "description": "Large evergreen oak. Used in front garden remodel for permanent shade structure."
+    },
+    {
+      "id": 45,
+      "category": "Trees - Evergreen",
+      "common_name": "Cork Oak",
+      "botanical_name": "Quercus suber",
+      "transcript_spelling": "Cork Oak",
+      "description": "Mediterranean evergreen oak with thick corky bark. Drought tolerant and well-adapted to California's climate."
+    },
+    {
+      "id": 46,
+      "category": "Trees - Evergreen",
+      "common_name": "White Oak",
+      "botanical_name": "Quercus alba",
+      "transcript_spelling": "White Oak",
+      "description": "Mentioned in the 15 biggest trees video. Large deciduous oak native to eastern North America. Among the largest oak species."
+    },
+    {
+      "id": 47,
+      "category": "Trees - Evergreen",
+      "common_name": "Oak (General)",
+      "botanical_name": "Quercus spp.",
+      "transcript_spelling": "Oaks, oaks",
+      "description": "Multiple oak species discussed as large shade trees. Generally too big for small residential sites. Common in California landscapes."
+    },
+    {
+      "id": 48,
+      "category": "Trees - Evergreen",
+      "common_name": "Coast Redwood",
+      "botanical_name": "Sequoia sempervirens",
+      "transcript_spelling": "Redwood, coast Redwood, redwoods",
+      "description": "California's state tree. Massive evergreen conifer. Multiple specimens discussed in various garden settings. Needs adequate water. Japanese maples and redwoods pair well together. Featured in the 15 biggest trees discussion."
+    },
+    {
+      "id": 49,
+      "category": "Trees - Evergreen",
+      "common_name": "Giant Sequoia",
+      "botanical_name": "Sequoiadendron giganteum",
+      "transcript_spelling": "Giant Sequoia",
+      "description": "The biggest tree by volume in the world. Native to the Sierra Nevada of California. Discussed in the 15 biggest trees video."
+    },
+    {
+      "id": 50,
+      "category": "Trees - Evergreen",
+      "common_name": "Deodar Cedar",
+      "botanical_name": "Cedrus deodara",
+      "transcript_spelling": "Dodar cedar, drr Cedar, arodor Cedar",
+      "description": "Large graceful evergreen conifer. Used as a specimen tree in larger landscapes. Mentioned dropping a branch on a car."
+    },
+    {
+      "id": 51,
+      "category": "Trees - Evergreen",
+      "common_name": "Canary Island Pine",
+      "botanical_name": "Pinus canariensis",
+      "transcript_spelling": "Canary Island Pine",
+      "description": "Large pine tree used in California landscapes. Distinctive long needles."
+    },
+    {
+      "id": 52,
+      "category": "Trees - Evergreen",
+      "common_name": "Pine (General)",
+      "botanical_name": "Pinus spp.",
+      "transcript_spelling": "Pine",
+      "description": "Various pine species mentioned in landscape context."
+    },
+    {
+      "id": 53,
+      "category": "Trees - Evergreen",
+      "common_name": "Douglas Fir",
+      "botanical_name": "Pseudotsuga menziesii",
+      "transcript_spelling": "Douglas fur, Douglas Fir",
+      "description": "One of the tallest tree species. Discussed in 15 biggest trees video and as a material for fencing and arbors."
+    },
+    {
+      "id": 54,
+      "category": "Trees - Evergreen",
+      "common_name": "Podocarpus",
+      "botanical_name": "Podocarpus macrophyllus",
+      "transcript_spelling": "Podocarpus macrophyllus",
+      "description": "Versatile evergreen used as screen, hedge, or small tree. Dense foliage. Good for privacy screening in California gardens."
+    },
+    {
+      "id": 55,
+      "category": "Trees - Evergreen",
+      "common_name": "Xylosma",
+      "botanical_name": "Xylosma congestum",
+      "transcript_spelling": "Xylosma",
+      "description": "Versatile evergreen shrub/tree used for screening and hedging. Can be pruned into tree form. Glossy foliage."
+    },
+    {
+      "id": 56,
+      "category": "Trees - Evergreen",
+      "common_name": "Arbutus 'Marina'",
+      "botanical_name": "Arbutus x 'Marina'",
+      "transcript_spelling": "Arbutus Marina, Arbutus",
+      "description": "Hybrid strawberry tree seen at nursery tour. Evergreen with attractive cinnamon bark, pink flowers, and red-orange fruit. Excellent multi-trunk small tree for California."
+    },
+    {
+      "id": 57,
+      "category": "Trees - Evergreen",
+      "common_name": "Palo Verde 'Desert Museum'",
+      "botanical_name": "Parkinsonia x 'Desert Museum'",
+      "transcript_spelling": "Palo Verde Desert Museum",
+      "description": "Thornless palo verde hybrid. Green-barked desert tree with yellow spring flowers. Seen at nursery tour and used in restaurant landscaping. Drought tolerant."
+    },
+    {
+      "id": 58,
+      "category": "Trees - Evergreen",
+      "common_name": "Skyrocket Juniper",
+      "botanical_name": "Juniperus scopulorum 'Skyrocket'",
+      "transcript_spelling": "Skyrocket Juniper",
+      "description": "Narrow columnar evergreen conifer. Used as a screening element on the opposite side of driveways. Very narrow footprint. Low maintenance."
+    },
+    {
+      "id": 59,
+      "category": "Trees - Evergreen",
+      "common_name": "Sweet Bay 'Saratoga'",
+      "botanical_name": "Laurus nobilis 'Saratoga'",
+      "transcript_spelling": "Saratoga, bay called Saratoga, Sweet Bay Little Ragu",
+      "description": "Bay laurel variety used throughout the designer's low-maintenance garden as the consistent tree element. Also discussed dwarf bay 'Little Ragu' for smaller spaces. Aromatic evergreen."
+    },
+    {
+      "id": 60,
+      "category": "Trees - Evergreen",
+      "common_name": "Photinia / Red Tip Photinia",
+      "botanical_name": "Photinia x fraseri",
+      "transcript_spelling": "fotinia, Photinia",
+      "description": "Large evergreen shrub/tree used for screening and hedging. New growth emerges bright red. Fast growing."
+    },
+    {
+      "id": 61,
+      "category": "Trees - Evergreen",
+      "common_name": "Rhaphiolepis 'Majestic Beauty'",
+      "botanical_name": "Rhaphiolepis indica 'Majestic Beauty'",
+      "transcript_spelling": "Rhaphiolepis Majestic Beauty",
+      "description": "Large-growing Indian hawthorn that can be trained as a small tree. Pink flowers. Evergreen."
+    },
+    {
+      "id": 62,
+      "category": "Trees - Evergreen",
+      "common_name": "Indian Hawthorn (Dwarf)",
+      "botanical_name": "Rhaphiolepis indica 'Minor'",
+      "transcript_spelling": "Rhaphiolepis Minor",
+      "description": "Dwarf form of Indian hawthorn. Compact evergreen shrub for borders and low hedges."
+    },
+    {
+      "id": 63,
+      "category": "Trees - Deciduous",
+      "common_name": "Ginkgo",
+      "botanical_name": "Ginkgo biloba",
+      "transcript_spelling": "Ginkgo",
+      "description": "Ancient deciduous tree with fan-shaped leaves and brilliant yellow fall color. Male trees preferred (no smelly fruit)."
+    },
+    {
+      "id": 64,
+      "category": "Trees - Tropical/Subtropical",
+      "common_name": "Eucalyptus (Mountain Ash)",
+      "botanical_name": "Eucalyptus regnans",
+      "transcript_spelling": "Eucalyptus regnans",
+      "description": "Tallest flowering plant in the world. Discussed in the 15 biggest trees video. Native to southeastern Australia."
+    },
+    {
+      "id": 65,
+      "category": "Trees - Tropical/Subtropical",
+      "common_name": "Rainbow Eucalyptus",
+      "botanical_name": "Eucalyptus deglupta",
+      "transcript_spelling": "Rainbow Eucalyptus",
+      "description": "Tropical eucalyptus with spectacularly colorful peeling bark in shades of green, blue, orange, and maroon. Discussed in the 15 biggest trees video."
+    },
+    {
+      "id": 66,
+      "category": "Trees - Tropical/Subtropical",
+      "common_name": "Tasmanian Blue Gum",
+      "botanical_name": "Eucalyptus globulus",
+      "transcript_spelling": "Tasmanian Blue Gum",
+      "description": "Large eucalyptus species. Discussed in the 15 biggest trees video. Common in California but can be problematic due to size and fire risk."
+    },
+    {
+      "id": 67,
+      "category": "Trees - Tropical/Subtropical",
+      "common_name": "Bhutan Cypress",
+      "botanical_name": "Cupressus cashmeriana",
+      "transcript_spelling": "Bhutan Cypress",
+      "description": "Graceful weeping cypress from the Himalayas. Discussed in the 15 biggest trees video."
+    },
+    {
+      "id": 68,
+      "category": "Trees - Tropical/Subtropical",
+      "common_name": "Yellow Meranti",
+      "botanical_name": "Shorea faguetiana",
+      "transcript_spelling": "Yellow Meranti, Shorea faguetiana",
+      "description": "Tallest known non-redwood tree in the world. Southeast Asian tropical species. Discussed in the 15 biggest trees video."
+    },
+    {
+      "id": 69,
+      "category": "Trees - Tropical/Subtropical",
+      "common_name": "Kauri",
+      "botanical_name": "Agathis australis",
+      "transcript_spelling": "Kauri, Agathis australis",
+      "description": "Ancient New Zealand conifer. One of the world's largest tree species. Discussed in the 15 biggest trees video."
+    },
+    {
+      "id": 70,
+      "category": "Trees - Tropical/Subtropical",
+      "common_name": "Kapok / Sumauma",
+      "botanical_name": "Ceiba pentandra",
+      "transcript_spelling": "Sumauma, Kapok",
+      "description": "Massive tropical tree with buttress roots. One of the largest trees in the Americas. Discussed in the 15 biggest trees video."
+    },
+    {
+      "id": 71,
+      "category": "Trees - Conifer",
+      "common_name": "Bristlecone Pine",
+      "botanical_name": "Pinus longaeva",
+      "transcript_spelling": "Bristlecone Pine",
+      "description": "The oldest living trees on Earth, some over 4,000 years old. Native to high elevations in the western United States. Discussed in the 15 biggest trees video."
+    },
+    {
+      "id": 72,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Boxwood",
+      "botanical_name": "Buxus spp.",
+      "transcript_spelling": "Boxwood",
+      "description": "Classic formal hedge plant. Dense evergreen. Used for borders and formal garden structure."
+    },
+    {
+      "id": 73,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Privet",
+      "botanical_name": "Ligustrum spp.",
+      "transcript_spelling": "Privet, Texas Privet",
+      "description": "Common hedge plant. Texas Privet mentioned specifically for no-lawn front yard designs. Dense growth for screening."
+    },
+    {
+      "id": 74,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Nandina (Heavenly Bamboo)",
+      "botanical_name": "Nandina domestica",
+      "transcript_spelling": "Nandina, dwarf Nandina",
+      "description": "Versatile evergreen shrub with bamboo-like foliage. Multiple varieties used: 'Flirt' and 'Blush Pink' (dwarf, colorful), standard domestica, and special dwarf forms. Used in courtyard plantings and no-lawn designs."
+    },
+    {
+      "id": 75,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Little John Bottlebrush",
+      "botanical_name": "Callistemon citrinus 'Little John'",
+      "transcript_spelling": "Little John bottlebrush, Little John bottle brush",
+      "description": "Dwarf bottlebrush shrub used as an informal hedge. Red brush-like flowers attract hummingbirds. Used in the designer's low-maintenance garden. Needs occasional pruning to maintain height."
+    },
+    {
+      "id": 76,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Little Ollie Dwarf Olive",
+      "botanical_name": "Olea europaea 'Montra'",
+      "transcript_spelling": "little Ollie, Little Ollie",
+      "description": "Dwarf fruitless olive shrub. Used for screening walls. Dense compact growth. Very drought tolerant."
+    },
+    {
+      "id": 77,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Plumbago",
+      "botanical_name": "Plumbago auriculata",
+      "transcript_spelling": "Plumbago",
+      "description": "Sprawling evergreen shrub with sky-blue flowers. Blooms prolifically in California. Used in drought-tolerant landscapes and front garden remodels."
+    },
+    {
+      "id": 78,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Butterfly Bush",
+      "botanical_name": "Buddleja davidii",
+      "transcript_spelling": "butterfly bush, butterfly",
+      "description": "Large flowering shrub that attracts butterflies. A riot of color when blooming. Used in front garden remodels and landscape plantings."
+    },
+    {
+      "id": 79,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Pineapple Guava",
+      "botanical_name": "Acca sellowiana (syn. Feijoa sellowiana)",
+      "transcript_spelling": "fola cellana, pineapple guava, Feijoa sellowiana",
+      "description": "Dual-purpose shrub/small tree with edible fruit and ornamental flowers. Named varieties recommended for better fruit. Can be used as a hedge, screen, or specimen. Very well-adapted to California."
+    },
+    {
+      "id": 80,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Camellia sasanqua 'Setsugekka'",
+      "botanical_name": "Camellia sasanqua 'Setsugekka'",
+      "transcript_spelling": "chameleia sanka sets gekka",
+      "description": "Fall/winter-blooming camellia with white semi-double flowers. Excellent for shade gardens and screening."
+    },
+    {
+      "id": 81,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Camellia 'Yellow Bird'",
+      "botanical_name": "Camellia x 'Yellow Bird'",
+      "transcript_spelling": "Camellia Yellow Bird",
+      "description": "Rare yellow-flowering camellia hybrid. Seen on spring garden tour. Collector's plant."
+    },
+    {
+      "id": 82,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Osmanthus (Sweet Olive)",
+      "botanical_name": "Osmanthus fragrans",
+      "transcript_spelling": "osmanthis fragrance, Osmanthus fragrans",
+      "description": "Evergreen shrub with extremely fragrant small white flowers. Excellent for hedges and screening. Fragrance carries throughout the garden."
+    },
+    {
+      "id": 83,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Loropetalum (Chinese Fringe Flower)",
+      "botanical_name": "Loropetalum chinense",
+      "transcript_spelling": "lur petalum, lur pedms, lorii corop, Loropetalum",
+      "description": "Versatile evergreen shrub with purple foliage and pink fringe-like flowers. 'Jazz Hands Variegated' cultivar noted on spring tour. Also used as ground cover form. Multiple sizes available."
+    },
+    {
+      "id": 84,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Japanese Aralia",
+      "botanical_name": "Fatsia japonica",
+      "transcript_spelling": "Fatsia japonica, Spider Web",
+      "description": "Bold-textured shade plant with large palmate leaves. 'Spider Web' variegated cultivar also mentioned. Excellent for shade gardens."
+    },
+    {
+      "id": 85,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Ming Aralia",
+      "botanical_name": "Polyscias fruticosa",
+      "transcript_spelling": "Ming Aralia",
+      "description": "Tropical-looking evergreen shrub with finely divided foliage. Used in sheltered garden areas."
+    },
+    {
+      "id": 86,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Dwarf Japanese Blueberry",
+      "botanical_name": "Elaeocarpus decipiens",
+      "transcript_spelling": "dwarf Japanese Blueberry, Japanese blueberry",
+      "description": "Dense evergreen screening shrub/tree. Used to create garden room boundaries in the low-maintenance garden. Dark glossy foliage."
+    },
+    {
+      "id": 87,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Carolina Cherry",
+      "botanical_name": "Prunus caroliniana",
+      "transcript_spelling": "Carolina Cherry, Cherry",
+      "description": "Dense evergreen used for screening and hedging. Mentioned in no-lawn front yard and restaurant landscaping. Fast growing."
+    },
+    {
+      "id": 88,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Mahonia 'Soft Caress'",
+      "botanical_name": "Mahonia eurybracteata 'Soft Caress'",
+      "transcript_spelling": "Mahonia soft Caress, Mahonia Soft Caress",
+      "description": "Compact mahonia with soft, non-spiny foliage. Used in zoo Asian exhibit landscaping. Yellow flowers, shade tolerant."
+    },
+    {
+      "id": 89,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Viburnum 'Spring Bouquet'",
+      "botanical_name": "Viburnum tinus 'Spring Bouquet'",
+      "transcript_spelling": "Viburnum Spring Bouquet",
+      "description": "Compact evergreen viburnum with clusters of white-pink flowers. Good for hedging and foundation plantings."
+    },
+    {
+      "id": 90,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Needle Leaf Holly",
+      "botanical_name": "Ilex crenata",
+      "transcript_spelling": "Needle Leaf Holly",
+      "description": "Japanese holly with small fine-textured leaves. Used for hedging and topiary."
+    },
+    {
+      "id": 91,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Sky Pencil Holly",
+      "botanical_name": "Ilex crenata 'Sky Pencil'",
+      "transcript_spelling": "Sky Pencil Holly",
+      "description": "Very narrow columnar Japanese holly. Excellent for tight vertical accent without taking much horizontal space."
+    },
+    {
+      "id": 92,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Holly (General)",
+      "botanical_name": "Ilex spp.",
+      "transcript_spelling": "Holly",
+      "description": "Various holly species mentioned for hedging and screening in California gardens."
+    },
+    {
+      "id": 93,
+      "category": "Shrubs - Deciduous",
+      "common_name": "Cistus (Rockrose)",
+      "botanical_name": "Cistus spp.",
+      "transcript_spelling": "Cistus",
+      "description": "Mediterranean shrub thriving in clay soil. Drought tolerant, paper-like flowers in white or pink. Well-adapted to California's climate."
+    },
+    {
+      "id": 94,
+      "category": "Shrubs - Deciduous",
+      "common_name": "Vitex (Chaste Tree)",
+      "botanical_name": "Vitex agnus-castus",
+      "transcript_spelling": "Vitex",
+      "description": "Large deciduous shrub/small tree with lavender-blue flower spikes in summer. Excellent for clay soil. Attracts butterflies."
+    },
+    {
+      "id": 95,
+      "category": "Shrubs - Deciduous",
+      "common_name": "Mock Orange",
+      "botanical_name": "Philadelphus spp.",
+      "transcript_spelling": "Mock Orange",
+      "description": "Deciduous shrub with intensely fragrant white flowers in spring. Old-fashioned garden favorite."
+    },
+    {
+      "id": 96,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Dwarf Pink Oleander",
+      "botanical_name": "Nerium oleander (dwarf pink)",
+      "transcript_spelling": "Dwarf Pink Oleander",
+      "description": "Compact form of oleander with pink flowers. Very heat and drought tolerant. All parts toxic. Good for hot, dry areas."
+    },
+    {
+      "id": 97,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Hibiscus",
+      "botanical_name": "Hibiscus rosa-sinensis",
+      "transcript_spelling": "Hibiscus",
+      "description": "Tropical-looking evergreen shrub with large colorful flowers. Popular in California landscapes."
+    },
+    {
+      "id": 98,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Dwarf Barberry",
+      "botanical_name": "Berberis thunbergii 'Crimson Pygmy' Nana",
+      "transcript_spelling": "berberis th burg Nana",
+      "description": "Compact burgundy-leafed shrub. Used for color contrast in garden beds. Deciduous in some climates."
+    },
+    {
+      "id": 99,
+      "category": "Shrubs - Deciduous",
+      "common_name": "Spiraea 'Anthony Waterer'",
+      "botanical_name": "Spiraea japonica 'Anthony Waterer'",
+      "transcript_spelling": "pum tabra, poosum toyra, Spiraea",
+      "description": "Compact deciduous flowering shrub with flat-topped pink flower clusters. Low maintenance."
+    },
+    {
+      "id": 100,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Flannel Bush",
+      "botanical_name": "Fremontodendron californicum",
+      "transcript_spelling": "Flannel Bush",
+      "description": "California native shrub with bright yellow flowers. Drought tolerant. Grows well in poor soils."
+    },
+    {
+      "id": 101,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Rhododendron",
+      "botanical_name": "Rhododendron spp.",
+      "transcript_spelling": "Roto dendrin, Rhododendron",
+      "description": "Acid-loving shrub with showy flower clusters. Seen on spring garden tour. Requires afternoon shade and acidic soil in California."
+    },
+    {
+      "id": 102,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Gardenia",
+      "botanical_name": "Gardenia jasminoides",
+      "transcript_spelling": "Gardenia",
+      "description": "Evergreen shrub with intensely fragrant white flowers. Requires acidic soil and consistent moisture."
+    },
+    {
+      "id": 103,
+      "category": "Shrubs - Deciduous",
+      "common_name": "Hydrangea",
+      "botanical_name": "Hydrangea macrophylla",
+      "transcript_spelling": "hydrangeas, hydranges",
+      "description": "Popular flowering shrub with large rounded flower clusters. Blue or pink depending on soil pH. Used in shade garden plantings. Needs regular water."
+    },
+    {
+      "id": 104,
+      "category": "Shrubs - Deciduous",
+      "common_name": "Oak Leaf Hydrangea",
+      "botanical_name": "Hydrangea quercifolia",
+      "transcript_spelling": "oak leaf hydrangeas",
+      "description": "Native hydrangea with oak-shaped leaves and cone-shaped white flower clusters. Excellent fall color. Used in no-lawn front yard design. More drought tolerant than mophead hydrangeas."
+    },
+    {
+      "id": 105,
+      "category": "Shrubs - Deciduous",
+      "common_name": "Blueberry",
+      "botanical_name": "Vaccinium corymbosum",
+      "transcript_spelling": "Blueberry",
+      "description": "Edible fruiting shrub. Requires acidic soil and consistent moisture. Mentioned for edible landscape use."
+    },
+    {
+      "id": 106,
+      "category": "Shrubs - Deciduous",
+      "common_name": "Pomegranate",
+      "botanical_name": "Punica granatum",
+      "transcript_spelling": "pomegranate",
+      "description": "Deciduous fruit tree/large shrub. Very well-adapted to hot California valleys. Used in restaurant landscaping. Will leaf out in spring."
+    },
+    {
+      "id": 107,
+      "category": "Shrubs - Evergreen",
+      "common_name": "Weeping Fig",
+      "botanical_name": "Ficus benjamina",
+      "transcript_spelling": "weeping fig",
+      "description": "Tropical evergreen tree/large shrub. Can be grown indoors. Mentioned in garden discussions."
+    },
+    {
+      "id": 108,
+      "category": "Perennials",
+      "common_name": "Red Yucca / Hesperaloe",
+      "botanical_name": "Hesperaloe parviflora",
+      "transcript_spelling": "Hesperaloe, Red Yucca",
+      "description": "Drought-tolerant perennial with arching grass-like leaves and coral-red flower spikes. Excellent for xeriscaping and no-lawn designs. Hummingbird magnet."
+    },
+    {
+      "id": 109,
+      "category": "Perennials",
+      "common_name": "Mexican Bush Sage",
+      "botanical_name": "Salvia leucantha",
+      "transcript_spelling": "Salvia lucantha, Salvia Luca, salvia leucantha",
+      "description": "Purple and white velvety flower spikes in fall. Major plant for California fall/winter color. Used extensively in landscape designs and no-lawn front yards."
+    },
+    {
+      "id": 110,
+      "category": "Perennials",
+      "common_name": "Autumn Sage",
+      "botanical_name": "Salvia greggii",
+      "transcript_spelling": "salvia gregi, Salvia grei, Salvia greggii",
+      "description": "Compact perennial sage with flowers in many colors. Highly drought tolerant. Used extensively in California landscapes. 'Mirage Blue' and 'Mirage Purple' cultivars specifically noted for superior performance."
+    },
+    {
+      "id": 111,
+      "category": "Perennials",
+      "common_name": "Autumn Sage 'Mirage Blue'",
+      "botanical_name": "Salvia greggii 'Mirage Blue'",
+      "transcript_spelling": "Salvia greggii Mirage blue",
+      "description": "Blue-flowering cultivar of autumn sage. Does better than most salvias according to the designer. Used in front garden remodel."
+    },
+    {
+      "id": 112,
+      "category": "Perennials",
+      "common_name": "Autumn Sage 'Mirage Purple'",
+      "botanical_name": "Salvia greggii 'Mirage Purple'",
+      "transcript_spelling": "Salvia greggii Mirage Purple",
+      "description": "Purple-flowering cultivar of autumn sage. Companion to 'Mirage Blue' in the front garden remodel."
+    },
+    {
+      "id": 113,
+      "category": "Perennials",
+      "common_name": "Santa Barbara Salvia",
+      "botanical_name": "Salvia leucantha 'Santa Barbara'",
+      "transcript_spelling": "Barbara salvia, Santa Barbara Salvia",
+      "description": "Dwarf form of Mexican bush sage. More compact growth habit for smaller spaces."
+    },
+    {
+      "id": 114,
+      "category": "Perennials",
+      "common_name": "Salvia 'Hot Lips'",
+      "botanical_name": "Salvia microphylla 'Hot Lips'",
+      "transcript_spelling": "Salvia hot lips, Salvia Hot Lips",
+      "description": "Bicolor red and white flowering salvia. Used in restaurant patio landscaping. Attracts hummingbirds."
+    },
+    {
+      "id": 115,
+      "category": "Perennials",
+      "common_name": "Lavender",
+      "botanical_name": "Lavandula spp.",
+      "transcript_spelling": "Lavender",
+      "description": "Classic Mediterranean perennial herb. Fragrant, drought tolerant. Used in multiple garden designs."
+    },
+    {
+      "id": 116,
+      "category": "Perennials",
+      "common_name": "Agapanthus / Lily of the Nile",
+      "botanical_name": "Agapanthus africanus",
+      "transcript_spelling": "Lily of the Nile, Agapanthus, Queen Anne",
+      "description": "Clump-forming perennial with large spherical blue or white flower clusters. 'Queen Anne' variety mentioned. Common in California landscapes."
+    },
+    {
+      "id": 117,
+      "category": "Perennials",
+      "common_name": "New Zealand Flax",
+      "botanical_name": "Phormium tenax",
+      "transcript_spelling": "formium, Phormium",
+      "description": "Bold architectural perennial with sword-like leaves. Multiple colors and sizes available. Used for dramatic focal points in California gardens."
+    },
+    {
+      "id": 118,
+      "category": "Perennials",
+      "common_name": "Coral Plant / Firecracker Plant",
+      "botanical_name": "Russelia equisetiformis",
+      "transcript_spelling": "Rouselia, Russelia, St. Elmo's Fire",
+      "description": "Cascading perennial with tubular red-orange flowers. 'St. Elmo's Fire' variety mentioned. Excellent for hummingbirds. Arching, fountain-like habit."
+    },
+    {
+      "id": 119,
+      "category": "Perennials",
+      "common_name": "Dianella 'Cassa Blue'",
+      "botanical_name": "Dianella caerulea 'Cassa Blue'",
+      "transcript_spelling": "Enella Casa Blue, Dianella",
+      "description": "Compact flax lily with blue-green strappy foliage and blue berries. Used in front garden remodel. Low maintenance ground-level perennial."
+    },
+    {
+      "id": 120,
+      "category": "Perennials",
+      "common_name": "Liriope 'Silvery Sunproof'",
+      "botanical_name": "Liriope muscari 'Silvery Sunproof'",
+      "transcript_spelling": "silvery sunproof larvia, Laapy, variegated liriope",
+      "description": "Variegated lilyturf with green and gold-striped foliage. Sun-tolerant variety. Used as edging and ground-level perennial in courtyard plantings."
+    },
+    {
+      "id": 121,
+      "category": "Perennials",
+      "common_name": "Liriope / Blue Lily Turf",
+      "botanical_name": "Liriope muscari",
+      "transcript_spelling": "liop, blue Lily Turf, Liriope",
+      "description": "Grass-like clumping perennial with blue-purple flower spikes. Versatile border and edging plant. Shade tolerant."
+    },
+    {
+      "id": 122,
+      "category": "Perennials",
+      "common_name": "Dianthus",
+      "botanical_name": "Dianthus spp.",
+      "transcript_spelling": "Dianthus",
+      "description": "Low-growing perennial with fragrant flowers. Used as border and edging plant."
+    },
+    {
+      "id": 123,
+      "category": "Perennials",
+      "common_name": "Society Garlic",
+      "botanical_name": "Tulbaghia violacea",
+      "transcript_spelling": "Society Garlic",
+      "description": "Clumping perennial with garlic-scented foliage and lavender flowers. Drought tolerant. Deer resistant."
+    },
+    {
+      "id": 124,
+      "category": "Perennials",
+      "common_name": "Sedum 'Autumn Joy'",
+      "botanical_name": "Hylotelephium 'Herbstfreude' (syn. Sedum 'Autumn Joy')",
+      "transcript_spelling": "Sedum Autumn Joy",
+      "description": "Upright succulent perennial with flat flower heads that transition from pink to copper. Fall bloomer."
+    },
+    {
+      "id": 125,
+      "category": "Perennials",
+      "common_name": "Sedum (General)",
+      "botanical_name": "Sedum spp.",
+      "transcript_spelling": "Sedum",
+      "description": "Succulent perennials in various forms. Low water requirement. Used in rock gardens and borders."
+    },
+    {
+      "id": 126,
+      "category": "Perennials",
+      "common_name": "Lamb's Ear",
+      "botanical_name": "Stachys byzantina",
+      "transcript_spelling": "Lambs Ear, Lamb's Ear",
+      "description": "Soft, silvery-furred perennial ground cover. Used in courtyard plantings for texture and color contrast."
+    },
+    {
+      "id": 127,
+      "category": "Perennials",
+      "common_name": "Yucca 'Color Guard'",
+      "botanical_name": "Yucca filamentosa 'Color Guard'",
+      "transcript_spelling": "Yucca filamentosa Color Guard",
+      "description": "Variegated yucca with gold-centered green leaves. Architectural accent plant. Drought tolerant."
+    },
+    {
+      "id": 128,
+      "category": "Perennials",
+      "common_name": "Matilija Poppy",
+      "botanical_name": "Romneya coulteri",
+      "transcript_spelling": "Matia papy, Matilija Poppy",
+      "description": "California native perennial with large white flowers and yellow centers resembling fried eggs. Dramatic, spreading native plant."
+    },
+    {
+      "id": 129,
+      "category": "Perennials",
+      "common_name": "Mexican Heather / Cuphea",
+      "botanical_name": "Cuphea hyssopifolia",
+      "transcript_spelling": "Mexican Heather, Cuphea",
+      "description": "Low-growing perennial with tiny purple flowers. Continuous bloomer in warm weather. Good for borders."
+    },
+    {
+      "id": 130,
+      "category": "Perennials",
+      "common_name": "Sea Lavender",
+      "botanical_name": "Limonium perezii",
+      "transcript_spelling": "Sea Lavender",
+      "description": "Perennial with clouds of tiny purple and white flowers. Very drought tolerant. Used in no-lawn front yard design."
+    },
+    {
+      "id": 131,
+      "category": "Perennials",
+      "common_name": "Bird of Paradise",
+      "botanical_name": "Strelitzia reginae",
+      "transcript_spelling": "Bird of Paradise",
+      "description": "Tropical-looking perennial with iconic orange and blue crane-like flowers. Used in restaurant patio landscaping."
+    },
+    {
+      "id": 132,
+      "category": "Perennials",
+      "common_name": "Alstroemeria",
+      "botanical_name": "Alstroemeria spp.",
+      "transcript_spelling": "ALR Maria, Alstroemeria",
+      "description": "Peruvian lily. Clumping perennial with colorful lily-like flowers. Long-lasting cut flower. Seen on spring garden tour."
+    },
+    {
+      "id": 133,
+      "category": "Perennials",
+      "common_name": "Sword Fern",
+      "botanical_name": "Polystichum munitum",
+      "transcript_spelling": "Sword Fern",
+      "description": "Western native fern with bold, upright fronds. Used in shade gardens. Seen on spring garden tour."
+    },
+    {
+      "id": 134,
+      "category": "Perennials",
+      "common_name": "Autumn Fern",
+      "botanical_name": "Dryopteris erythrosora",
+      "transcript_spelling": "Autumn Ferns",
+      "description": "Semi-evergreen fern with coppery new fronds. Used in shade garden renovations."
+    },
+    {
+      "id": 135,
+      "category": "Perennials",
+      "common_name": "Lady Fern",
+      "botanical_name": "Athyrium filix-femina",
+      "transcript_spelling": "lady fern",
+      "description": "Delicate deciduous fern for shade gardens. Lacy fronds."
+    },
+    {
+      "id": 136,
+      "category": "Perennials",
+      "common_name": "Silver Lady Fern",
+      "botanical_name": "Athyrium niponicum var. pictum",
+      "transcript_spelling": "Silver Lady Fern",
+      "description": "Japanese painted fern with silvery-purple fronds. Shade garden accent."
+    },
+    {
+      "id": 137,
+      "category": "Perennials",
+      "common_name": "Xanadu Philodendron",
+      "botanical_name": "Thaumatophyllum xanadu (syn. Philodendron xanadu)",
+      "transcript_spelling": "zanadu filodendron, Xanadu Philodendron",
+      "description": "Compact tropical perennial with deeply lobed leaves. Used in sheltered garden areas for tropical effect."
+    },
+    {
+      "id": 138,
+      "category": "Perennials",
+      "common_name": "Variegated Ginger Lily",
+      "botanical_name": "Hedychium spp.",
+      "transcript_spelling": "ginger lily, Ginger Lily, ginger fendron",
+      "description": "Tropical perennial with fragrant flowers and bold foliage. Used in shade gardens, restaurant landscaping, and zoo exhibits. Variegated form provides additional foliage interest."
+    },
+    {
+      "id": 139,
+      "category": "Perennials",
+      "common_name": "Nasturtium",
+      "botanical_name": "Tropaeolum majus",
+      "transcript_spelling": "nesters, Nasturtium",
+      "description": "Colorful edible-flowered perennial/annual. Leaves and flowers are edible. Easy to grow. Self-seeds freely."
+    },
+    {
+      "id": 140,
+      "category": "Perennials",
+      "common_name": "Feverfew",
+      "botanical_name": "Tanacetum parthenium",
+      "transcript_spelling": "fever fu, Feverfew",
+      "description": "Daisy-like perennial herb. Medicinal plant. Self-seeds freely. Used for sandy soil improvement plantings."
+    },
+    {
+      "id": 141,
+      "category": "Perennials",
+      "common_name": "Daylily",
+      "botanical_name": "Hemerocallis spp.",
+      "transcript_spelling": "daylilies",
+      "description": "Clumping perennial with lily-like flowers. Easy to grow. Used in the low-maintenance garden with Blue Fescue."
+    },
+    {
+      "id": 142,
+      "category": "Perennials",
+      "common_name": "Bee Balm",
+      "botanical_name": "Monarda spp.",
+      "transcript_spelling": "bee balm",
+      "description": "Colorful perennial that repels mosquitoes while attracting pollinators. Plant in sun with rich, well-draining soil. Grows back and multiplies each year."
+    },
+    {
+      "id": 143,
+      "category": "Perennials",
+      "common_name": "Chrysanthemum / Mums",
+      "botanical_name": "Chrysanthemum spp.",
+      "transcript_spelling": "chrysanthemum, mums",
+      "description": "Large-blooming sun-loving perennial. Can be planted in pots or ground. Space 1.5 to 2.5 feet apart depending on variety. Short-lived but spectacular blooms."
+    },
+    {
+      "id": 144,
+      "category": "Perennials",
+      "common_name": "Verbena",
+      "botanical_name": "Verbena spp.",
+      "transcript_spelling": "verbena, verbain",
+      "description": "Brightly colored perennial. Needs 8-10 hours of sun per day. Known as a pollinator favorite. Also called vervain."
+    },
+    {
+      "id": 145,
+      "category": "Perennials",
+      "common_name": "Coreopsis / Tickseed",
+      "botanical_name": "Coreopsis spp.",
+      "transcript_spelling": "cropsis, tixi, tick seed",
+      "description": "Native perennial with daisy-like flowers. Full sun, several varieties available. Great for beginner gardeners. Native to US, Mexico, and Canada."
+    },
+    {
+      "id": 146,
+      "category": "Perennials",
+      "common_name": "Iceland Poppy",
+      "botanical_name": "Papaver nudicaule",
+      "transcript_spelling": "Iceland Poppies",
+      "description": "Cool-season perennial grown as annual in California. Papery flowers in bright colors. Fall/winter planting."
+    },
+    {
+      "id": 147,
+      "category": "Annuals",
+      "common_name": "Snapdragon",
+      "botanical_name": "Antirrhinum majus",
+      "transcript_spelling": "Snapdragon",
+      "description": "Cool-season annual with vertical flower spikes. Many colors available. Popular fall/winter annual in California."
+    },
+    {
+      "id": 148,
+      "category": "Annuals",
+      "common_name": "Stock",
+      "botanical_name": "Matthiola incana",
+      "transcript_spelling": "Stock",
+      "description": "Fragrant cool-season annual. Spicy clove-scented flowers. Popular in California winter gardens."
+    },
+    {
+      "id": 149,
+      "category": "Annuals",
+      "common_name": "Calendula",
+      "botanical_name": "Calendula officinalis",
+      "transcript_spelling": "chingula, calendula",
+      "description": "Edible-flowered annual with saffron-colored blooms. Used for anti-inflammatory tinctures. Can top desserts or salads. Takes 6-8 weeks to bloom. Plant in pots or garden beds."
+    },
+    {
+      "id": 150,
+      "category": "Annuals",
+      "common_name": "Sweet Alyssum",
+      "botanical_name": "Lobularia maritima",
+      "transcript_spelling": "alysum, Sweet Alyssum",
+      "description": "Low-growing fragrant annual. Used as edging and ground cover between pavers. Self-seeds prolifically."
+    },
+    {
+      "id": 151,
+      "category": "Annuals",
+      "common_name": "Paludosum Daisy",
+      "botanical_name": "Mauranthemum paludosum",
+      "transcript_spelling": "Paludosum Daisy",
+      "description": "Small white daisy annual. Low growing. Good for borders and edging in cool season."
+    },
+    {
+      "id": 152,
+      "category": "Annuals",
+      "common_name": "Pansy",
+      "botanical_name": "Viola x wittrockiana",
+      "transcript_spelling": "Pansy",
+      "description": "Popular cool-season annual with face-like flowers in many colors."
+    },
+    {
+      "id": 153,
+      "category": "Annuals",
+      "common_name": "Viola",
+      "botanical_name": "Viola cornuta",
+      "transcript_spelling": "Viola",
+      "description": "Small-flowered relative of pansy. Cool-season annual. Many color options."
+    },
+    {
+      "id": 154,
+      "category": "Annuals",
+      "common_name": "Zinnia",
+      "botanical_name": "Zinnia elegans",
+      "transcript_spelling": "Zinnia, zinnias",
+      "description": "Fast-growing drought-tolerant annual. Vibrant colors including magenta, yellow, orange, and cream. Plant spring through late summer."
+    },
+    {
+      "id": 155,
+      "category": "Annuals",
+      "common_name": "Annual Salvia",
+      "botanical_name": "Salvia splendens",
+      "transcript_spelling": "annual Salvia",
+      "description": "Bright red or other colored annual salvia. Warm-season bedding plant."
+    },
+    {
+      "id": 156,
+      "category": "Annuals",
+      "common_name": "Annual Vinca",
+      "botanical_name": "Catharanthus roseus",
+      "transcript_spelling": "annual Vinca",
+      "description": "Heat-loving annual with round flowers. Excellent for hot California summers."
+    },
+    {
+      "id": 157,
+      "category": "Annuals",
+      "common_name": "Begonia",
+      "botanical_name": "Begonia spp.",
+      "transcript_spelling": "Begonia",
+      "description": "Shade-tolerant annual/perennial with waxy flowers. Multiple types available."
+    },
+    {
+      "id": 158,
+      "category": "Annuals",
+      "common_name": "Cyclamen",
+      "botanical_name": "Cyclamen persicum",
+      "transcript_spelling": "cyclamin, Cyclamen",
+      "description": "Cool-season flowering plant with swept-back petals. Excellent for shade in fall/winter."
+    },
+    {
+      "id": 159,
+      "category": "Annuals",
+      "common_name": "Primrose",
+      "botanical_name": "Primula spp.",
+      "transcript_spelling": "Primrose",
+      "description": "Cool-season annual with clusters of bright flowers. Good for winter color."
+    },
+    {
+      "id": 160,
+      "category": "Annuals",
+      "common_name": "Ornamental Cabbage",
+      "botanical_name": "Brassica oleracea var. acephala",
+      "transcript_spelling": "Ornamental Cabbage",
+      "description": "Cool-season decorative plant with colorful rosettes. Good for fall/winter garden interest."
+    },
+    {
+      "id": 161,
+      "category": "Annuals",
+      "common_name": "Geranium / Pelargonium",
+      "botanical_name": "Pelargonium spp.",
+      "transcript_spelling": "Geranium",
+      "description": "Popular bedding plant with rounded flower clusters. Multiple colors. Seen on spring garden tour."
+    },
+    {
+      "id": 162,
+      "category": "Annuals",
+      "common_name": "Celosia",
+      "botanical_name": "Celosia spp.",
+      "transcript_spelling": "celosia",
+      "description": "Unique colorful annual with plume or brain-shaped flowers. Full sun. Easy to propagate once established. Adds bold interest to gardens."
+    },
+    {
+      "id": 163,
+      "category": "Annuals",
+      "common_name": "Marigold",
+      "botanical_name": "Tagetes spp.",
+      "transcript_spelling": "Marigold, marigolds",
+      "description": "Fast-growing annual, seed to bloom in 8 weeks. Well-draining soil, water at base not on leaves. Repels mosquitoes and rodents while attracting pollinators."
+    },
+    {
+      "id": 164,
+      "category": "Annuals",
+      "common_name": "China Aster",
+      "botanical_name": "Callistephus chinensis",
+      "transcript_spelling": "China Aster",
+      "description": "Annual aster that blooms long after other plants stop. 13 different colors available. Fantastic for pollinators."
+    },
+    {
+      "id": 165,
+      "category": "Ground Covers",
+      "common_name": "Lantana",
+      "botanical_name": "Lantana spp.",
+      "transcript_spelling": "Lantana",
+      "description": "Extremely hardy ground cover/shrub. White, lavender, and trailing varieties. Blooms every year. Very drought tolerant once established. Can grow into large shrubs. Multiple colors available."
+    },
+    {
+      "id": 166,
+      "category": "Ground Covers",
+      "common_name": "Trailing Lantana",
+      "botanical_name": "Lantana montevidensis",
+      "transcript_spelling": "Lantana montevidensis",
+      "description": "Low-spreading ground cover form of lantana. Purple or white flowers. Excellent for slopes and banks."
+    },
+    {
+      "id": 167,
+      "category": "Ground Covers",
+      "common_name": "Asian Jasmine",
+      "botanical_name": "Trachelospermum asiaticum",
+      "transcript_spelling": "Asian jasmine, Asian Jasmine",
+      "description": "Dense evergreen ground cover. Used in no-lawn front yard designs and as a lawn substitute. Shade tolerant."
+    },
+    {
+      "id": 168,
+      "category": "Ground Covers",
+      "common_name": "Star Jasmine",
+      "botanical_name": "Trachelospermum jasminoides",
+      "transcript_spelling": "star jasmine, Star Jasmine",
+      "description": "Fragrant white-flowering vine/ground cover. Can be used as ground cover or climber. Very popular in California."
+    },
+    {
+      "id": 169,
+      "category": "Ground Covers",
+      "common_name": "Juniper 'Nana'",
+      "botanical_name": "Juniperus procumbens 'Nana'",
+      "transcript_spelling": "Juniper Nana",
+      "description": "Low-spreading juniper ground cover. Extremely drought tolerant. Blue-green foliage."
+    },
+    {
+      "id": 170,
+      "category": "Ground Covers",
+      "common_name": "Dymondia",
+      "botanical_name": "Dymondia margaretae",
+      "transcript_spelling": "Dymondia, kopia",
+      "description": "Low-growing silver-green ground cover. Used between pavers and as lawn substitute. Drought tolerant. Used in no-lawn front yard designs and front garden remodels."
+    },
+    {
+      "id": 171,
+      "category": "Ground Covers",
+      "common_name": "Creeping Thyme",
+      "botanical_name": "Thymus serpyllum",
+      "transcript_spelling": "creeping Thyme",
+      "description": "Fragrant low-growing herb used as ground cover. Tiny purple flowers attract bees. Good between stepping stones."
+    },
+    {
+      "id": 172,
+      "category": "Ground Covers",
+      "common_name": "Dwarf Thyme",
+      "botanical_name": "Thymus spp. (dwarf)",
+      "transcript_spelling": "dwarf thyme",
+      "description": "Compact thyme variety used as ground cover. Mixed in with stepping stones and pavers."
+    },
+    {
+      "id": 173,
+      "category": "Ground Covers",
+      "common_name": "Oxalis",
+      "botanical_name": "Oxalis spp.",
+      "transcript_spelling": "Oxalis",
+      "description": "Low-growing clover-like ground cover. Can be ornamental or weedy depending on species."
+    },
+    {
+      "id": 174,
+      "category": "Vines",
+      "common_name": "Bougainvillea",
+      "botanical_name": "Bougainvillea spp.",
+      "transcript_spelling": "buganilia, buganvilia, Bougainvillea",
+      "description": "Spectacular flowering vine with colorful bracts. 'Bambino' dwarf variety mentioned. Extremely drought tolerant. Needs full sun and heat. Iconic California vine."
+    },
+    {
+      "id": 175,
+      "category": "Vines",
+      "common_name": "Trumpet Vine",
+      "botanical_name": "Campsis radicans",
+      "transcript_spelling": "trumpet vine",
+      "description": "Vigorous deciduous vine with trumpet-shaped orange-red flowers. Attracts hummingbirds. Can be aggressive."
+    },
+    {
+      "id": 176,
+      "category": "Vines",
+      "common_name": "Clematis",
+      "botanical_name": "Clematis spp.",
+      "transcript_spelling": "clatus, Clematis",
+      "description": "Flowering vine with large showy blooms. Many varieties and colors. Needs roots in shade, top in sun."
+    },
+    {
+      "id": 177,
+      "category": "Vines",
+      "common_name": "Cape Honeysuckle",
+      "botanical_name": "Tecoma capensis",
+      "transcript_spelling": "cape honeysuckle",
+      "description": "Evergreen vine/shrub with orange tubular flowers. Attracts hummingbirds. Can be used as hedge or vine."
+    },
+    {
+      "id": 178,
+      "category": "Vines",
+      "common_name": "Boston Ivy",
+      "botanical_name": "Parthenocissus tricuspidata",
+      "transcript_spelling": "Boston Ivy",
+      "description": "Deciduous vine that clings to walls. Brilliant red fall color. Used for covering walls and fences. Discussed for clay soil gardens."
+    },
+    {
+      "id": 179,
+      "category": "Vines",
+      "common_name": "Wisteria",
+      "botanical_name": "Wisteria sinensis",
+      "transcript_spelling": "Wisteria",
+      "description": "Dramatic deciduous vine with cascading purple flower clusters. Very vigorous. Requires training on strong structure. Featured in multiple videos including training tutorials. Notorious for aggressive growth."
+    },
+    {
+      "id": 180,
+      "category": "Vines",
+      "common_name": "Creeping Fig",
+      "botanical_name": "Ficus pumila",
+      "transcript_spelling": "creeping fig, Creeping Fig",
+      "description": "Self-clinging evergreen vine for covering walls. Dense flat growth. Used in zoo landscaping and privacy screen discussions."
+    },
+    {
+      "id": 181,
+      "category": "Vines",
+      "common_name": "Purple Potato Vine",
+      "botanical_name": "Solanum laxum",
+      "transcript_spelling": "Purple Potato Vine",
+      "description": "Scrambling vine seen on spring garden tour. Purple-tinted foliage and white flowers."
+    },
+    {
+      "id": 182,
+      "category": "Succulents",
+      "common_name": "Agave 'Blue Glow'",
+      "botanical_name": "Agave 'Blue Glow'",
+      "transcript_spelling": "blue glow Agave, Agave Blue Glow",
+      "description": "Dwarf agave with blue-green rosette and red-edged leaves. Used extensively in the designer's low-maintenance garden. Stays manageable size after 7 years. Perfect for small sites."
+    },
+    {
+      "id": 183,
+      "category": "Succulents",
+      "common_name": "Agave (Large)",
+      "botanical_name": "Agave americana or similar",
+      "transcript_spelling": "Agave, large agave",
+      "description": "Larger agave species. Noted as being too big for small garden sites. Blue Glow recommended instead for residential use."
+    },
+    {
+      "id": 184,
+      "category": "Succulents",
+      "common_name": "Succulents (General)",
+      "botanical_name": "Various",
+      "transcript_spelling": "succulents",
+      "description": "Various succulent species discussed for container gardening. Feed carefully with organic amendments. Popular with homeowners."
+    },
+    {
+      "id": 185,
+      "category": "Roses",
+      "common_name": "Icecap Rose / Dwarf Iceberg",
+      "botanical_name": "Rosa 'Icecap'",
+      "transcript_spelling": "Icecap Rose, dwarf Iceberg, Icecap",
+      "description": "Compact white landscape rose. Dwarf sport of the famous Iceberg rose. Used in the front garden remodel. Very disease resistant."
+    },
+    {
+      "id": 186,
+      "category": "Roses",
+      "common_name": "Iceberg Rose",
+      "botanical_name": "Rosa 'Iceberg'",
+      "transcript_spelling": "Iceberg Rose, Iceberg",
+      "description": "Classic white floribunda rose. One of the most popular landscape roses in California."
+    },
+    {
+      "id": 187,
+      "category": "Roses",
+      "common_name": "Climbing Rose 'Don Juan'",
+      "botanical_name": "Rosa 'Don Juan'",
+      "transcript_spelling": "Don Juan",
+      "description": "Dark red climbing rose. Fragrant. Popular climber for arbors and trellises."
+    },
+    {
+      "id": 188,
+      "category": "Roses",
+      "common_name": "Climbing Rose 'Joseph's Coat'",
+      "botanical_name": "Rosa 'Joseph's Coat'",
+      "transcript_spelling": "Joseph's Coat",
+      "description": "Multi-colored climbing rose with yellow, orange, and red blooms. Eye-catching color display."
+    },
+    {
+      "id": 189,
+      "category": "Roses",
+      "common_name": "Climbing Rose 'Pretty in Pink'",
+      "botanical_name": "Rosa 'Pretty in Pink'",
+      "transcript_spelling": "Pretty in Pink",
+      "description": "Pink climbing rose variety discussed in the climbing roses video."
+    },
+    {
+      "id": 190,
+      "category": "Roses",
+      "common_name": "Climbing Rose 'Golden Opportunity'",
+      "botanical_name": "Rosa 'Golden Opportunity'",
+      "transcript_spelling": "Golden Opportunity",
+      "description": "Yellow climbing rose variety. Good for adding warm color to vertical garden structures."
+    },
+    {
+      "id": 191,
+      "category": "Roses",
+      "common_name": "Climbing Rose 'Zephirine Drouhin'",
+      "botanical_name": "Rosa 'Zephirine Drouhin'",
+      "transcript_spelling": "Zephirine Drouhin",
+      "description": "Thornless bourbon climbing rose with deep pink fragrant flowers. Ideal for areas near pathways due to lack of thorns."
+    },
+    {
+      "id": 192,
+      "category": "Roses",
+      "common_name": "Climbing Rose 'Lavender Crush'",
+      "botanical_name": "Rosa 'Lavender Crush'",
+      "transcript_spelling": "Lavender Crush",
+      "description": "Lavender-colored climbing rose variety. Unique color for a climbing rose."
+    },
+    {
+      "id": 193,
+      "category": "Roses",
+      "common_name": "Marmalade Sky Floribunda",
+      "botanical_name": "Rosa 'Marmalade Sky'",
+      "transcript_spelling": "Marmalade Sky",
+      "description": "Orange-toned floribunda rose. Landscape rose with continuous blooming."
+    },
+    {
+      "id": 194,
+      "category": "Roses",
+      "common_name": "Hybrid Tea Rose",
+      "botanical_name": "Rosa (Hybrid Tea group)",
+      "transcript_spelling": "Hybrid Tea Rose",
+      "description": "Classic long-stemmed roses. Require more maintenance than landscape roses. Discussed in rose society talk."
+    },
+    {
+      "id": 195,
+      "category": "Roses",
+      "common_name": "Ground Cover Rose",
+      "botanical_name": "Rosa (Ground Cover group)",
+      "transcript_spelling": "Ground Cover Rose",
+      "description": "Low-spreading roses for ground cover use. Less maintenance than hybrid teas."
+    },
+    {
+      "id": 196,
+      "category": "Roses",
+      "common_name": "Tree Rose",
+      "botanical_name": "Rosa (standard/tree form)",
+      "transcript_spelling": "Tree Rose",
+      "description": "Rose grafted on a tall standard trunk. Formal accent plant."
+    },
+    {
+      "id": 197,
+      "category": "Grasses - Ornamental",
+      "common_name": "Blue Fescue",
+      "botanical_name": "Festuca glauca",
+      "transcript_spelling": "Blue Fescue",
+      "description": "Compact blue-gray ornamental grass. Low mounding habit. Used in no-lawn front yard designs and low-maintenance gardens. Drought tolerant."
+    },
+    {
+      "id": 198,
+      "category": "Grasses - Ornamental",
+      "common_name": "Japanese Forest Grass",
+      "botanical_name": "Hakonechloa macra",
+      "transcript_spelling": "Japanese Grass, Hakonechloa",
+      "description": "Graceful cascading ornamental grass. Used in the front garden remodel. Provides soft flowing texture."
+    },
+    {
+      "id": 199,
+      "category": "Grasses - Ornamental",
+      "common_name": "Fountain Grass",
+      "botanical_name": "Pennisetum setaceum",
+      "transcript_spelling": "Pennisetum, Fountain Grass",
+      "description": "Ornamental grass with fuzzy flower plumes. Popular in California landscapes. Can be invasive in some areas."
+    },
+    {
+      "id": 200,
+      "category": "Grasses - Ornamental",
+      "common_name": "Carex 'Ice Dance'",
+      "botanical_name": "Carex morrowii 'Ice Dance'",
+      "transcript_spelling": "Carex Ice Dance",
+      "description": "Variegated evergreen sedge with white-edged leaves. Good shade ground cover. Low maintenance."
+    },
+    {
+      "id": 201,
+      "category": "Grasses - Lawn",
+      "common_name": "Bermuda Grass (Hybrid)",
+      "botanical_name": "Cynodon dactylon (hybrid)",
+      "transcript_spelling": "Bermuda, improved Bermuda, hybrid Bermuda",
+      "description": "Primary warm-season lawn grass for Central Valley. Common and hybrid varieties discussed. Requires proper irrigation, mowing, and soil health. Lawn renovation and overseeding techniques detailed."
+    },
+    {
+      "id": 202,
+      "category": "Grasses - Lawn",
+      "common_name": "Tall Fescue",
+      "botanical_name": "Festuca arundinacea",
+      "transcript_spelling": "tall fescue, Fescue",
+      "description": "Cool-season lawn grass. Shade-tolerant. Used for overseeding and as primary lawn in cooler areas."
+    },
+    {
+      "id": 203,
+      "category": "Grasses - Lawn",
+      "common_name": "Perennial Ryegrass",
+      "botanical_name": "Lolium perenne",
+      "transcript_spelling": "perennial Rye, ryegrass",
+      "description": "Cool-season grass used for overseeding warm-season lawns in fall/winter. Quick germination."
+    },
+    {
+      "id": 204,
+      "category": "Grasses - Lawn",
+      "common_name": "Creeping Red Fescue",
+      "botanical_name": "Festuca rubra",
+      "transcript_spelling": "Creeping red fescue",
+      "description": "Fine fescue used for shaded areas. Surprisingly looks similar to Bermuda when mixed. Most shade-tolerant lawn grass."
+    },
+    {
+      "id": 205,
+      "category": "Grasses - Lawn",
+      "common_name": "Chewings Fescue",
+      "botanical_name": "Festuca rubra subsp. commutata",
+      "transcript_spelling": "chewing fescue, Chewings Fescue",
+      "description": "Fine fescue variety for shade areas. Used in lawn overseeding mixes."
+    },
+    {
+      "id": 206,
+      "category": "Grasses - Lawn",
+      "common_name": "Kentucky Bluegrass",
+      "botanical_name": "Poa pratensis",
+      "transcript_spelling": "bluegrass, Kentucky Bluegrass",
+      "description": "Cool-season lawn grass. Part of overseeding mixes. Beautiful but requires more water."
+    },
+    {
+      "id": 207,
+      "category": "Grasses - Lawn",
+      "common_name": "St. Augustine Grass",
+      "botanical_name": "Stenotaphrum secundatum",
+      "transcript_spelling": "St. Augustine",
+      "description": "Warm-season lawn grass. Broader blades than Bermuda. More shade tolerant than Bermuda."
+    },
+    {
+      "id": 208,
+      "category": "Grasses - Lawn",
+      "common_name": "Zoysia Grass",
+      "botanical_name": "Zoysia spp.",
+      "transcript_spelling": "Zoysia",
+      "description": "Warm-season lawn grass. Dense, carpet-like texture. Moderate water needs."
+    },
+    {
+      "id": 209,
+      "category": "Bamboo",
+      "common_name": "Black Bamboo",
+      "botanical_name": "Phyllostachys nigra",
+      "transcript_spelling": "black bamboo",
+      "description": "Running bamboo with dramatic black culms. Grown indoors and outdoors. Can be challenging to contain. Used in the designer's garden and discussed in multiple videos."
+    },
+    {
+      "id": 210,
+      "category": "Bamboo",
+      "common_name": "Bamboo (Various)",
+      "botanical_name": "Bambusoideae (various genera)",
+      "transcript_spelling": "bamboo, Bamboo",
+      "description": "Various bamboo species used in zoo Asian exhibit landscaping and privacy screening. Multiple types discussed."
+    },
+    {
+      "id": 211,
+      "category": "Palms",
+      "common_name": "Lady Palm",
+      "botanical_name": "Rhapis excelsa",
+      "transcript_spelling": "lady Palm, Lady Palm",
+      "description": "Multi-stemmed fan palm used in restaurant patio landscaping. Shade tolerant. Elegant tropical appearance. Indoor/outdoor versatility."
+    },
+    {
+      "id": 212,
+      "category": "Palms",
+      "common_name": "Palms (Various)",
+      "botanical_name": "Arecaceae (various genera)",
+      "transcript_spelling": "Palms",
+      "description": "Various palm species used in zoo landscaping and tropical-themed gardens."
+    },
+    {
+      "id": 213,
+      "category": "Tropical",
+      "common_name": "Banana",
+      "botanical_name": "Musa spp.",
+      "transcript_spelling": "Banana",
+      "description": "Tropical plant used in zoo exhibits and restaurant landscaping. Large bold foliage provides tropical atmosphere."
+    },
+    {
+      "id": 214,
+      "category": "Edibles - Citrus",
+      "common_name": "Lemon (Multiple Varieties)",
+      "botanical_name": "Citrus limon",
+      "transcript_spelling": "Lemon, Lisbon, Eureka, Ponderosa, Meyer",
+      "description": "Multiple lemon varieties discussed: Lisbon, Eureka (commercial types), Ponderosa (huge fruit), and Meyer (sweeter, cold-hardier hybrid). Dwarf citrus planted in side yards."
+    },
+    {
+      "id": 215,
+      "category": "Edibles - Citrus",
+      "common_name": "Navel Orange",
+      "botanical_name": "Citrus sinensis",
+      "transcript_spelling": "Navel Orange",
+      "description": "Classic eating orange. Multiple varieties for California home orchards."
+    },
+    {
+      "id": 216,
+      "category": "Edibles - Citrus",
+      "common_name": "Blood Orange",
+      "botanical_name": "Citrus sinensis (blood orange group)",
+      "transcript_spelling": "Blood Orange",
+      "description": "Orange variety with deep red flesh. Popular specialty citrus for California gardens."
+    },
+    {
+      "id": 217,
+      "category": "Edibles - Citrus",
+      "common_name": "Cara Cara Orange",
+      "botanical_name": "Citrus sinensis 'Cara Cara'",
+      "transcript_spelling": "Cara Cara Orange, caraka oranges",
+      "description": "Pink-fleshed navel orange variety. Sweet with berry-like overtones."
+    },
+    {
+      "id": 218,
+      "category": "Edibles - Citrus",
+      "common_name": "Lime",
+      "botanical_name": "Citrus aurantiifolia",
+      "transcript_spelling": "Lime, limes",
+      "description": "Citrus fruit tree for California gardens."
+    },
+    {
+      "id": 219,
+      "category": "Edibles - Citrus",
+      "common_name": "Limequat",
+      "botanical_name": "Citrus x floridana",
+      "transcript_spelling": "Limequat",
+      "description": "Hybrid between lime and kumquat. Cold-hardier than limes."
+    },
+    {
+      "id": 220,
+      "category": "Edibles - Citrus",
+      "common_name": "Kumquat",
+      "botanical_name": "Fortunella spp.",
+      "transcript_spelling": "Kumquat, kumquat",
+      "description": "Small citrus fruit eaten whole including peel. Grown in containers in the low-maintenance garden. Cold-hardy citrus."
+    },
+    {
+      "id": 221,
+      "category": "Edibles - Citrus",
+      "common_name": "Clementine",
+      "botanical_name": "Citrus clementina",
+      "transcript_spelling": "Clementine",
+      "description": "Easy-peel mandarin variety for California home orchards."
+    },
+    {
+      "id": 222,
+      "category": "Edibles - Citrus",
+      "common_name": "Mandarin Orange (Multiple Varieties)",
+      "botanical_name": "Citrus reticulata",
+      "transcript_spelling": "Golden Nugget Mandarin, Satsuma, Pixie Mandarin, Tango Tangerine, Mandarin Orange",
+      "description": "Multiple mandarin varieties discussed: Golden Nugget, Satsuma (cold hardy), Pixie, and Tango Tangerine. Popular home orchard citrus."
+    },
+    {
+      "id": 223,
+      "category": "Edibles - Citrus",
+      "common_name": "Grapefruit",
+      "botanical_name": "Citrus paradisi",
+      "transcript_spelling": "grapefruit, Grapefruit",
+      "description": "Large citrus tree. Pink and white varieties mentioned. Prolific producer in California. Seen in multiple garden tours."
+    },
+    {
+      "id": 224,
+      "category": "Edibles - Citrus",
+      "common_name": "Buddha's Hand Citrus",
+      "botanical_name": "Citrus medica var. sarcodactylis",
+      "transcript_spelling": "Buddha's Hand Citrus",
+      "description": "Unusual citrus with finger-like segments. Highly fragrant. Used for zest and fragrance rather than juice."
+    },
+    {
+      "id": 225,
+      "category": "Edibles - Citrus",
+      "common_name": "Tangelo",
+      "botanical_name": "Citrus x tangelo",
+      "transcript_spelling": "Tangelo, tangelos",
+      "description": "Citrus hybrid of tangerine and grapefruit. Juicy, sweet-tart fruit."
+    },
+    {
+      "id": 226,
+      "category": "Edibles - Fruit Trees",
+      "common_name": "Fuji Apple",
+      "botanical_name": "Malus domestica 'Fuji'",
+      "transcript_spelling": "Fuji apple, Fuji",
+      "description": "Apple variety that does fantastic in Fresno. One of the best apples for hot Central Valley climates. Planted in backyard orchard."
+    },
+    {
+      "id": 227,
+      "category": "Edibles - Fruit Trees",
+      "common_name": "Ambrosia Apple",
+      "botanical_name": "Malus domestica 'Ambrosia'",
+      "transcript_spelling": "ambrosia",
+      "description": "Apple variety mentioned for home orchard use. Sweet, crisp fruit."
+    },
+    {
+      "id": 228,
+      "category": "Edibles - Fruit Trees",
+      "common_name": "Pixie Crunch Apple",
+      "botanical_name": "Malus domestica 'Pixie Crunch'",
+      "transcript_spelling": "pixie crunch Apple",
+      "description": "One of the designer's favorite apples. Easy to fit into small yards. Grows in wide range of zones but hard to find. Reminds of Honeycrisp - crisp, tart, and sweet. Ordered online from Michigan."
+    },
+    {
+      "id": 229,
+      "category": "Edibles - Fruit Trees",
+      "common_name": "Crab Apple",
+      "botanical_name": "Malus spp. (crabapple)",
+      "transcript_spelling": "crab apple, crab apples",
+      "description": "Small-fruited apple used to make hard cider. Combined with eating apples in edible garden."
+    },
+    {
+      "id": 230,
+      "category": "Edibles - Fruit Trees",
+      "common_name": "Elberta Peach",
+      "botanical_name": "Prunus persica 'Elberta'",
+      "transcript_spelling": "Elberta Peach",
+      "description": "Classic yellow freestone peach. Heirloom variety for California orchards."
+    },
+    {
+      "id": 231,
+      "category": "Edibles - Fruit Trees",
+      "common_name": "Alberta Peach",
+      "botanical_name": "Prunus persica 'Alberta'",
+      "transcript_spelling": "Alberta Peach, Alberta",
+      "description": "Old heirloom peach variety. Planted in backyard fruit garden and quirky orchard."
+    },
+    {
+      "id": 232,
+      "category": "Edibles - Fruit Trees",
+      "common_name": "Strawberry Peach",
+      "botanical_name": "Prunus persica 'Strawberry'",
+      "transcript_spelling": "strawberry peach",
+      "description": "Peach variety planted in backyard orchard. One of the healthiest-looking trees with lots of new growth. No signs of decline or burn."
+    },
+    {
+      "id": 233,
+      "category": "Edibles - Fruit Trees",
+      "common_name": "Arctic Supreme White Peach",
+      "botanical_name": "Prunus persica 'Arctic Supreme'",
+      "transcript_spelling": "Arctic Supreme white peach",
+      "description": "White-fleshed peach variety in the backyard orchard. Doing very well with new healthy growth. Only one peach on the new tree, which is more appropriate."
+    },
+    {
+      "id": 234,
+      "category": "Edibles - Fruit Trees",
+      "common_name": "Double Delight Nectarine",
+      "botanical_name": "Prunus persica var. nucipersica 'Double Delight'",
+      "transcript_spelling": "double Delight nectarine",
+      "description": "Nectarine variety in the backyard orchard. Really good variety but the tree had too many fruit on it for its size."
+    },
+    {
+      "id": 235,
+      "category": "Edibles - Fruit Trees",
+      "common_name": "Blenheim Apricot",
+      "botanical_name": "Prunus armeniaca 'Blenheim'",
+      "transcript_spelling": "Blenheim apricot, Blenheim",
+      "description": "Heirloom apricot variety. Classic California apricot known for exceptional flavor."
+    },
+    {
+      "id": 236,
+      "category": "Edibles - Fruit Trees",
+      "common_name": "Cotton Candy Apricot",
+      "botanical_name": "Prunus armeniaca 'Cotton Candy'",
+      "transcript_spelling": "cotton candy apricot",
+      "description": "Apricot variety in the backyard orchard. Doing well with new growth at many tips."
+    },
+    {
+      "id": 237,
+      "category": "Edibles - Fruit Trees",
+      "common_name": "Flavor King Pluot",
+      "botanical_name": "Prunus 'Flavor King'",
+      "transcript_spelling": "Flavor King Pluot",
+      "description": "Pluot variety (plum-apricot hybrid). Popular in California home orchards."
+    },
+    {
+      "id": 238,
+      "category": "Edibles - Fruit Trees",
+      "common_name": "Dapple Dandy Pluot",
+      "botanical_name": "Prunus 'Dapple Dandy'",
+      "transcript_spelling": "dapple Dand, Dapple Dandy",
+      "description": "Pluot variety with mottled skin and red-fleshed interior. Really good variety for home orchards."
+    },
+    {
+      "id": 239,
+      "category": "Edibles - Fruit Trees",
+      "common_name": "Plumcot",
+      "botanical_name": "Prunus (plum x apricot hybrid)",
+      "transcript_spelling": "plum cot, Plum cot",
+      "description": "Cross between plum and apricot. Planted in backyard orchard. Had problems with army worms. Treated with spinosad organic spray."
+    },
+    {
+      "id": 240,
+      "category": "Edibles - Fruit Trees",
+      "common_name": "Nubiana Plum",
+      "botanical_name": "Prunus salicina 'Nubiana'",
+      "transcript_spelling": "nubiana plum",
+      "description": "Japanese plum variety in the backyard orchard. Some new growth happening with minor chlorosis showing on leaves."
+    },
+    {
+      "id": 241,
+      "category": "Edibles - Fruit Trees",
+      "common_name": "Stella Cherry",
+      "botanical_name": "Prunus avium 'Stella'",
+      "transcript_spelling": "Stella, self for Turtle Cherry called Stella",
+      "description": "Self-fertile sweet cherry that does not need a pollinizer. Lost to overwatering in hot weather in the backyard orchard."
+    },
+    {
+      "id": 242,
+      "category": "Edibles - Fruit Trees",
+      "common_name": "Fig (Multiple Varieties)",
+      "botanical_name": "Ficus carica",
+      "transcript_spelling": "Fig, figs, French fig",
+      "description": "Multiple fig varieties discussed: Violette de Bordeaux (French fig), Black Mission. Small trees good for edible gardens. Designer discussed 'exfoliating' (espalier) technique for fig trees."
+    },
+    {
+      "id": 243,
+      "category": "Edibles - Fruit Trees",
+      "common_name": "Persimmon (Fuyu)",
+      "botanical_name": "Diospyros kaki 'Fuyu'",
+      "transcript_spelling": "fuyu Persimmon, Fuyu, fuyu",
+      "description": "Hard, crisp persimmon variety that can be eaten like an apple. Multiple trees planted in the backyard orchard. Owner's favorite. Some fruit burned in heat."
+    },
+    {
+      "id": 244,
+      "category": "Edibles - Fruit Trees",
+      "common_name": "Persimmon (Hachiya)",
+      "botanical_name": "Diospyros kaki 'Hachiya'",
+      "transcript_spelling": "hashia, Hachiya",
+      "description": "Astringent persimmon variety that gets real soft. Used to make cookies. Not for fresh eating until fully ripe."
+    },
+    {
+      "id": 245,
+      "category": "Edibles - Fruit Trees",
+      "common_name": "Loquat",
+      "botanical_name": "Eriobotrya japonica",
+      "transcript_spelling": "Loquat",
+      "description": "Evergreen fruit tree with large tropical-looking leaves. Yellow-orange fruit in spring. Versatile landscape and edible tree."
+    },
+    {
+      "id": 246,
+      "category": "Edibles - Fruit Trees",
+      "common_name": "Almond",
+      "botanical_name": "Prunus dulcis",
+      "transcript_spelling": "Almond",
+      "description": "Major agricultural tree in California's Central Valley. Also grown in home orchards."
+    },
+    {
+      "id": 247,
+      "category": "Edibles - Fruit Trees",
+      "common_name": "Olive (Fruiting)",
+      "botanical_name": "Olea europaea",
+      "transcript_spelling": "Olive, olive trees",
+      "description": "Mediterranean fruit/shade tree. Both fruiting and fruitless varieties used extensively in California landscaping."
+    },
+    {
+      "id": 248,
+      "category": "Edibles - Fruit Trees",
+      "common_name": "Grape",
+      "botanical_name": "Vitis vinifera",
+      "transcript_spelling": "grape, grapes",
+      "description": "Grapevine for home vineyard use. Previous homeowner had a small grape vineyard that was removed."
+    },
+    {
+      "id": 249,
+      "category": "Edibles - Vegetables",
+      "common_name": "Tomato (Multiple Varieties)",
+      "botanical_name": "Solanum lycopersicum",
+      "transcript_spelling": "Tomato, tomatoes",
+      "description": "Multiple varieties discussed: Whopper, Sungold, Sun Sugar (cherry types), Crimson Caramello, Beefsteak, Big Zach (3+ lb fruits), and Mortgage Lifter. Detailed growing techniques covered."
+    },
+    {
+      "id": 250,
+      "category": "Edibles - Vegetables",
+      "common_name": "Onion (Multiple Varieties)",
+      "botanical_name": "Allium cepa",
+      "transcript_spelling": "Onion, Walla Walla, Elsie, Sierra Blanca",
+      "description": "Winter vegetable garden crop. Varieties include Walla Walla (sweet), Elsie, and Sierra Blanca."
+    },
+    {
+      "id": 251,
+      "category": "Edibles - Vegetables",
+      "common_name": "Garlic",
+      "botanical_name": "Allium sativum",
+      "transcript_spelling": "Garlic",
+      "description": "Cool-season crop planted in fall/winter for spring harvest."
+    },
+    {
+      "id": 252,
+      "category": "Edibles - Vegetables",
+      "common_name": "Broccoli",
+      "botanical_name": "Brassica oleracea var. italica",
+      "transcript_spelling": "Broccoli",
+      "description": "Cool-season vegetable. Multiple varieties with different growth habits discussed."
+    },
+    {
+      "id": 253,
+      "category": "Edibles - Vegetables",
+      "common_name": "Cauliflower",
+      "botanical_name": "Brassica oleracea var. botrytis",
+      "transcript_spelling": "Cauliflower",
+      "description": "Cool-season vegetable for winter gardens."
+    },
+    {
+      "id": 254,
+      "category": "Edibles - Vegetables",
+      "common_name": "Radish",
+      "botanical_name": "Raphanus sativus",
+      "transcript_spelling": "Radish",
+      "description": "Fast-growing cool-season root vegetable."
+    },
+    {
+      "id": 255,
+      "category": "Edibles - Vegetables",
+      "common_name": "Romaine Lettuce",
+      "botanical_name": "Lactuca sativa var. longifolia",
+      "transcript_spelling": "Romaine Lettuce",
+      "description": "Cool-season leafy green for winter vegetable gardens."
+    },
+    {
+      "id": 256,
+      "category": "Edibles - Vegetables",
+      "common_name": "Broccoli Rabe / Broccolini",
+      "botanical_name": "Brassica rapa / Brassica oleracea x rapa",
+      "transcript_spelling": "Broccoli Rabe, Broccolini",
+      "description": "Italian cool-season greens for winter gardens."
+    },
+    {
+      "id": 257,
+      "category": "Edibles - Vegetables",
+      "common_name": "Beet",
+      "botanical_name": "Beta vulgaris",
+      "transcript_spelling": "Beet",
+      "description": "Cool-season root and leaf vegetable."
+    },
+    {
+      "id": 258,
+      "category": "Edibles - Vegetables",
+      "common_name": "Celery",
+      "botanical_name": "Apium graveolens",
+      "transcript_spelling": "Celery",
+      "description": "Cool-season vegetable for winter gardens."
+    },
+    {
+      "id": 259,
+      "category": "Edibles - Vegetables",
+      "common_name": "Kale",
+      "botanical_name": "Brassica oleracea var. sabellica",
+      "transcript_spelling": "Kale",
+      "description": "Hardy cool-season leafy green."
+    },
+    {
+      "id": 260,
+      "category": "Edibles - Vegetables",
+      "common_name": "Spinach",
+      "botanical_name": "Spinacia oleracea",
+      "transcript_spelling": "Spinach",
+      "description": "Cool-season leafy green for winter gardens."
+    },
+    {
+      "id": 261,
+      "category": "Edibles - Vegetables",
+      "common_name": "Carrot",
+      "botanical_name": "Daucus carota",
+      "transcript_spelling": "Carrot",
+      "description": "Root vegetable for cool-season gardens."
+    },
+    {
+      "id": 262,
+      "category": "Edibles - Vegetables",
+      "common_name": "Mustard Greens",
+      "botanical_name": "Brassica juncea",
+      "transcript_spelling": "Mustard Greens",
+      "description": "Spicy cool-season leafy green."
+    },
+    {
+      "id": 263,
+      "category": "Edibles - Vegetables",
+      "common_name": "Swiss Chard",
+      "botanical_name": "Beta vulgaris var. cicla",
+      "transcript_spelling": "Swiss Chard",
+      "description": "Colorful cool-season leafy green."
+    },
+    {
+      "id": 264,
+      "category": "Edibles - Vegetables",
+      "common_name": "Arugula",
+      "botanical_name": "Eruca vesicaria",
+      "transcript_spelling": "Arugula",
+      "description": "Peppery cool-season salad green."
+    },
+    {
+      "id": 265,
+      "category": "Edibles - Vegetables",
+      "common_name": "Bok Choy",
+      "botanical_name": "Brassica rapa subsp. chinensis",
+      "transcript_spelling": "Bok Choy",
+      "description": "Asian cool-season green for winter gardens."
+    },
+    {
+      "id": 266,
+      "category": "Edibles - Vegetables",
+      "common_name": "Potato",
+      "botanical_name": "Solanum tuberosum",
+      "transcript_spelling": "Potato",
+      "description": "Root vegetable for spring planting."
+    },
+    {
+      "id": 267,
+      "category": "Edibles - Vegetables",
+      "common_name": "Corn",
+      "botanical_name": "Zea mays",
+      "transcript_spelling": "corn",
+      "description": "Summer vegetable crop mentioned in edible garden context."
+    },
+    {
+      "id": 268,
+      "category": "Edibles - Vegetables",
+      "common_name": "Watermelon",
+      "botanical_name": "Citrullus lanatus",
+      "transcript_spelling": "Watermelon",
+      "description": "Summer fruit/vegetable for warm-season gardens."
+    },
+    {
+      "id": 269,
+      "category": "Edibles - Vegetables",
+      "common_name": "Cantaloupe",
+      "botanical_name": "Cucumis melo",
+      "transcript_spelling": "Cantaloupe",
+      "description": "Summer melon for warm-season gardens."
+    },
+    {
+      "id": 270,
+      "category": "Edibles - Vegetables",
+      "common_name": "Strawberry",
+      "botanical_name": "Fragaria x ananassa",
+      "transcript_spelling": "Strawberry",
+      "description": "Perennial fruit for edible gardens and containers."
+    },
+    {
+      "id": 271,
+      "category": "Edibles - Herbs",
+      "common_name": "Rosemary (Tuscan Blue)",
+      "botanical_name": "Rosmarinus officinalis 'Tuscan Blue'",
+      "transcript_spelling": "Tuscan Blue Rosemary",
+      "description": "Upright rosemary variety. Used as both culinary herb and landscape shrub. Very drought tolerant. Mediterranean plant perfectly suited to California."
+    },
+    {
+      "id": 272,
+      "category": "Edibles - Herbs",
+      "common_name": "Rosemary (Prostrate)",
+      "botanical_name": "Rosmarinus officinalis 'Prostratus'",
+      "transcript_spelling": "Rosemary prostratus",
+      "description": "Trailing/prostrate rosemary for ground cover use. Used in restaurant patio landscaping. Cascading habit."
+    },
+    {
+      "id": 273,
+      "category": "Edibles - Herbs",
+      "common_name": "Cilantro",
+      "botanical_name": "Coriandrum sativum",
+      "transcript_spelling": "Cilantro",
+      "description": "Cool-season herb. Bolts quickly in warm weather."
+    },
+    {
+      "id": 274,
+      "category": "Edibles - Herbs",
+      "common_name": "Parsley (Flat/Italian)",
+      "botanical_name": "Petroselinum crispum var. neapolitanum",
+      "transcript_spelling": "Parsley, flat parsley, Italian parsley",
+      "description": "Biennial herb used in cooking. Flat-leaf/Italian variety preferred for flavor."
+    },
+    {
+      "id": 275,
+      "category": "Edibles - Herbs",
+      "common_name": "Dill",
+      "botanical_name": "Anethum graveolens",
+      "transcript_spelling": "Dill",
+      "description": "Annual herb for cool-season and early warm-season gardens."
+    },
+    {
+      "id": 276,
+      "category": "Edibles - Herbs",
+      "common_name": "Oregano",
+      "botanical_name": "Origanum vulgare",
+      "transcript_spelling": "oregano, aano",
+      "description": "Perennial Mediterranean herb. Multiple varieties grown. Can be dried for storage. Cut with hedge trimmers when large. Discussed in edible garden tours."
+    },
+    {
+      "id": 277,
+      "category": "Edibles - Herbs",
+      "common_name": "Basil",
+      "botanical_name": "Ocimum basilicum",
+      "transcript_spelling": "Basil, basil",
+      "description": "Warm-season annual herb. Essential culinary herb. Fragrant. Discussed in multiple edible garden contexts."
+    },
+    {
+      "id": 278,
+      "category": "Edibles - Herbs",
+      "common_name": "Thyme",
+      "botanical_name": "Thymus vulgaris",
+      "transcript_spelling": "Thyme, thyme",
+      "description": "Perennial Mediterranean herb. Culinary and ornamental uses."
+    },
+    {
+      "id": 279,
+      "category": "Edibles - Herbs",
+      "common_name": "Mint",
+      "botanical_name": "Mentha spp.",
+      "transcript_spelling": "mint, Mint",
+      "description": "Aggressive-growing perennial herb. Needs containment. Multiple varieties available. Can survive winter low temperatures."
+    },
+    {
+      "id": 280,
+      "category": "Edibles - Herbs",
+      "common_name": "Germander / Teucrium",
+      "botanical_name": "Teucrium chamaedrys",
+      "transcript_spelling": "Germander, Teucrium",
+      "description": "Low-growing perennial herb/edging plant. Used for formal herb garden borders."
+    }
+  ]
+}

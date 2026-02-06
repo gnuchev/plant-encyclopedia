@@ -38,6 +38,27 @@
   border-radius: 999px;
 }
 
+.home-region-header {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--accent);
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+
+.home-region-badge {
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--accent);
+  background: var(--accent-light);
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+}
+
 .home-section {
   margin-bottom: 2rem;
 }
@@ -87,6 +108,29 @@
   color: var(--muted);
   line-height: 1.5;
   margin: 0;
+}
+
+.featured-card-wrapper {
+  position: relative;
+}
+
+.featured-card-wrapper .home-card {
+  border-left: 3px solid var(--accent);
+}
+
+.featured-badge {
+  position: absolute;
+  top: 0.6rem;
+  right: 0.6rem;
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--accent);
+  background: var(--accent-light);
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+  z-index: 1;
 }
 
 @media (max-width: 768px) {

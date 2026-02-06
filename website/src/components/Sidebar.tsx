@@ -1,13 +1,6 @@
 import Link from "next/link";
 import { getArticlesGroupedByCategory } from "@/lib/articleMeta";
-
-const CATEGORY_ICONS: Record<string, string> = {
-  Design: "Design",
-  "Plant Reference": "Plant Reference",
-  "Care & Maintenance": "Care & Maintenance",
-  Tutorials: "Tutorials",
-  "Hardscape & Structure": "Hardscape & Structure",
-};
+import { getCaArticlesGroupedByCategory } from "@/lib/caArticleMeta";
 
 export default function Sidebar({
   currentPath,
@@ -16,7 +9,8 @@ export default function Sidebar({
   currentPath?: string;
   onNavigate?: () => void;
 }) {
-  const groups = getArticlesGroupedByCategory();
+  const flGroups = getArticlesGroupedByCategory();
+  const caGroups = getCaArticlesGroupedByCategory();
 
   return (
     <nav className="sidebar">
@@ -24,7 +18,7 @@ export default function Sidebar({
         <Link href="/" onClick={onNavigate} className="sidebar-logo">
           <span className="sidebar-logo-icon">&#x1F33F;</span>
           <span className="sidebar-logo-text">
-            Tropical Plants
+            Plants
             <br />
             <small>Encyclopedia</small>
           </span>
@@ -39,6 +33,10 @@ export default function Sidebar({
         >
           Home
         </Link>
+
+        <div className="sidebar-divider" />
+
+        <div className="sidebar-region-header">Florida &mdash; Zone 10A</div>
         <Link
           href="/encyclopedia"
           onClick={onNavigate}
@@ -47,13 +45,9 @@ export default function Sidebar({
           Plant Encyclopedia
         </Link>
 
-        <div className="sidebar-divider" />
-
-        {groups.map((group) => (
+        {flGroups.map((group) => (
           <details key={group.category} className="sidebar-group" open>
-            <summary className="sidebar-category">
-              {CATEGORY_ICONS[group.category] || group.category}
-            </summary>
+            <summary className="sidebar-category">{group.category}</summary>
             <div className="sidebar-group-items">
               {group.articles.map((article) => (
                 <Link
@@ -61,6 +55,35 @@ export default function Sidebar({
                   href={`/articles/${article.slug}`}
                   onClick={onNavigate}
                   className={`sidebar-link sub ${currentPath === `/articles/${article.slug}` ? "active" : ""}`}
+                >
+                  {article.title}
+                </Link>
+              ))}
+            </div>
+          </details>
+        ))}
+
+        <div className="sidebar-divider" />
+
+        <div className="sidebar-region-header">California &mdash; Zone 9</div>
+        <Link
+          href="/ca/encyclopedia"
+          onClick={onNavigate}
+          className={`sidebar-link ${currentPath === "/ca/encyclopedia" ? "active" : ""}`}
+        >
+          Plant Encyclopedia
+        </Link>
+
+        {caGroups.map((group) => (
+          <details key={group.category} className="sidebar-group">
+            <summary className="sidebar-category">{group.category}</summary>
+            <div className="sidebar-group-items">
+              {group.articles.map((article) => (
+                <Link
+                  key={article.slug}
+                  href={`/ca/articles/${article.slug}`}
+                  onClick={onNavigate}
+                  className={`sidebar-link sub ${currentPath === `/ca/articles/${article.slug}` ? "active" : ""}`}
                 >
                   {article.title}
                 </Link>

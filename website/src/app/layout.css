@@ -104,6 +104,15 @@
   margin: 0.5rem 0.75rem;
 }
 
+.sidebar-region-header {
+  padding: 0.5rem 0.75rem 0.25rem;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+}
+
 .sidebar-group {
   margin: 0.25rem 0;
 }

@@ -18,11 +18,11 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "Tropical Plants Encyclopedia",
-    template: "%s | Tropical Plants Encyclopedia",
+    default: "Plants Encyclopedia",
+    template: "%s | Plants Encyclopedia",
   },
   description:
-    "A comprehensive guide to tropical landscape design, plant care, and garden planning for Zone 10A. Based on the True Gardener YouTube channel.",
+    "A comprehensive guide to landscape design, plant care, and garden planning for Florida (Zone 10A) and California (Zone 9).",
 };
 
 export default function RootLayout({
